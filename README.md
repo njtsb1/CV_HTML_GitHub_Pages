@@ -1,6 +1,6 @@
-# Daily Learning
+Daily Learning
 
-## Creating Your Online Resume with HTML and GitHub Pages
+# Creating Your Online Resume with HTML and GitHub Pages
 
 Project developed at Bootcamp Potência Tech Angular Developer - Powered by iFood with guidance from specialist [Venilton FalvoJr](https://github.com/falvojr "Venilton FalvoJr").  
 Learning how to build our first web page, which will be a replica of an online CV, using HTML and GitHub Pages concepts. At the end, we will have our resume ready and available in a static format. It can also be used as a resume or personal portfolio.
