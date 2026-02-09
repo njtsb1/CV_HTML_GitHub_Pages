@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title data-i18n="meta.title">Nivaldo Beirão - Online CV</title>
+
+  <!-- W3.CSS and Roboto font used for quick layout and styling -->
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+  <!-- Local stylesheet -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body class="w3-light-grey" id="page-body">
+  <!-- Top controls: Dark/Light toggle and Language selector -->
+  <header class="top-controls w3-container w3-padding-small">
+    <div class="w3-right w3-margin-right">
+      <!-- Dark/Light toggle button -->
+      <button id="theme-toggle" class="w3-button w3-white w3-round" aria-label="Toggle theme" title="Toggle theme">
+        <i id="theme-icon" class="fa fa-sun-o"></i>
+      </button>
+
+      <!-- Language selector -->
+      <select id="language-select" class="w3-select w3-margin-left" aria-label="Select language" title="Select language">
+        <option value="en-US" selected>English (EN)</option>
+        <option value="pt-BR">Português (PT-BR)</option>
+        <option value="es-ES">Español (ES-ES)</option>
+      </select>
+    </div>
+
+    <div class="w3-clear"></div>
+  </header>
+
+  <!-- Page Container -->
+  <div class="w3-content w3-margin-top" style="max-width:1400px;">
+    <!-- Grid -->
+    <div class="w3-row-padding">
+
+      <!-- Left Column -->
+      <div class="w3-third">
+        <div class="w3-white w3-text-grey w3-card-4">
+          <div class="w3-container">
+            <!-- Name -->
+            <h2 id="full-name" data-i18n="name">Nivaldo José Tadeu dos Santos Beirão</h2>
+          </div>
+
+          <div class="w3-container">
+            <!-- Professional summary short lines -->
+            <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>
+              <span data-i18n="role">IT Administrator and Manager</span>
+            </p>
+            <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>
+              <span data-i18n="location">Miracatu - SP</span>
+            </p>
+            <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>
+              <a href="mailto:njtsb1@gmail.com">njtsb1@gmail.com</a>
+            </p>
+            <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>
+              <a href="tel:+5513997213207">+55 (13) 99721-3207</a>
+            </p>
+            <hr>
+
+                        <!-- Hard Skills with simple progress bars -->
+            <p class="w3-large">
+              <b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>
+                <span data-i18n="skills.Hard-title">Hard Skills</span>
+              </b>
+            </p>
+
+            <p data-i18n="skills.Technology-&-Technical-Support">Technology & Technical Support</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:20%">20%</div>
+            </div>
+
+            <p data-i18n="skills.Social-Projects-&-Digital-Inclusion">Social Projects & Digital Inclusion</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:20%">20%</div>
+            </div>
+
+            <p data-i18n="skills.Academic-and-Administrative-Management">Academic and Administrative Management</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:18%">18%</div>
+            </div>
+
+            <p data-i18n="skills.Sales-&-Commerce">Sales & Commerce</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:13%">13%</div>
+            </div>
+
+            <p data-i18n="skills.Financial-&-Banking-Operations">Financial and Banking Operations</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:12%">12%</div>
+            </div>
+
+            <p data-i18n="skills.Logistics-&-Operations">Logistics & Operations</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:12%">12%</div>
+            </div>
+
+            <p data-i18n="skills.Sports-Trading-Investments">Sports Trading (Investments)</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:5%">5%</div>
+            </div>
+
+            <!-- Soft Skills with simple progress bars -->
+            <p class="w3-large">
+              <b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>
+                <span data-i18n="skills.Soft-title">Soft Skills</span>
+              </b>
+            </p>
+
+            <p data-i18n="skills.Continuous-learning-ability">Continuous learning ability</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:15%">15%</div>
+            </div>
+
+            <p data-i18n="skills.Responsibilityand-commitment">Responsibility and commitment</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:14%">14%</div>
+            </div>
+
+            <p data-i18n="skills.Organization-and-discipline">Organization and discipline</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:13%">13%</div>
+            </div>
+            
+            <p data-i18n="skills.Patience-and-resilience">Patience and resilience</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:12%">12%</div>
+            </div>
+
+            <p data-i18n="skills.Initiative-and-proactivity">Initiative and proactivity</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:11%">11%</div>
+            </div>
+
+            <p data-i18n="skills.Teamwork">Teamwork</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:9%">9%</div>
+            </div>
+
+            <p data-i18n="skills.Adaptability-across-areas">Adaptability across areas (commerce, technology, education, investments)</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:8%">8%</div>
+            </div>
+            
+            <p data-i18n="skills.Analytical-skills">Analytical skills (financial and sports analysis)</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:7%">7%</div>
+            </div>
+
+            <p data-i18n="skills.Emotional-and-psychological-control-under-pressure">Emotional and psychological control under pressure</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:6%">6%</div>
+            </div>
+
+            <p data-i18n="skills.Interpersonal-communication">Interpersonal communication</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:5%">5%</div>
+            </div>
+
+            <br>
+
+            <!-- Languages -->
+            <p class="w3-large w3-text-theme">
+              <b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>
+                <span data-i18n="languages.title">Languages</span>
+              </b>
+            </p>
+
+            <p data-i18n="languages.pt">Portuguese</p>
+            <div class="w3-light-grey w3-round-xlarge">
+              <div class="w3-round-xlarge w3-teal" style="height:24px;width:67%">67%</div>
+            </div>
+
+            <p data-i18n="languages.en">English</p>
+            <div class="w3-light-grey w3-round-xlarge">
+              <div class="w3-round-xlarge w3-teal" style="height:24px;width:22%">22%</div>
+            </div>
+
+            <p data-i18n="languages.es">Spanish</p>
+            <div class="w3-light-grey w3-round-xlarge">
+              <div class="w3-round-xlarge w3-teal" style="height:24px;width:11%">11%</div>
+            </div>
+
+            <br>
+          </div>
+        </div>
+        <br>
+      </div>
+
+      <!-- Right Column -->
+      <div class="w3-twothird">
+        <!-- About -->
+        <div class="w3-container w3-card w3-white w3-margin-bottom">
+          <h2 class="w3-text-grey w3-padding-16">
+            <i class="fa fa-terminal fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>
+            <span data-i18n="about.title">About</span>
+          </h2>
+          <p data-i18n="about.text">
+            I am a perfectionist, detail-oriented, analytical, and process-driven professional.
+            I focus on organization, clear documentation, and practical solutions that ensure operational stability
+            and service continuity. I prioritize quality, rigorous review, and meeting deadlines, maintaining a discreet
+            and reliable demeanor. I adopt a methodical approach to team and project management, seeking efficiency
+            and continuous improvement. Sometimes shy, sometimes introverted, sometimes reserved; I am 35 years old,
+            single, without children, and I dedicate part of my time to reading and continuous study to improve my
+            technical and management knowledge. I am seeking an opportunity where my 17 years of experience can
+            contribute to the company's development, applying discipline, attention to detail, and commitment to the
+            delivery of IT and administrative services.
+          </p>
+        </div>
+
+        <!-- Experiences -->
+        <div class="w3-container w3-card w3-white w3-margin-bottom">
+          <h2 class="w3-text-grey w3-padding-16">
+            <i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>
+            <span data-i18n="experience.title">Experiences</span>
+          </h2>
+
+          <div class="w3-container">
+            <h5 class="w3-opacity">
+              <b data-i18n="experience.multimedia.title">Multimedia Editor - Freelance work on Audacity</b>
+            </h5>
+            <h6 class="w3-text-teal">
+              <i class="fa fa-calendar fa-fw w3-margin-right"></i>
+              <span data-i18n="experience.multimedia.date_text">April 2023 -</span>
+              <span class="w3-tag w3-teal w3-round" data-i18n="experience.multimedia.date_tag">Present</span>
+            </h6>
+
+            <!-- Use list for clear bullet points; these are translatable -->
+            <ul class="experience-list">
+              <li data-i18n="experience.multimedia.p1">Creation and editing of multimedia digital content focused on quality, creativity, and AI innovation.</li>
+              <li data-i18n="experience.multimedia.p2">Text: subtitling, translation, and adaptation for different audiences.</li>
+              <li data-i18n="experience.multimedia.p3">Image: cover design, professional editing and pixel adjustments.</li>
+              <li data-i18n="experience.multimedia.p4">Audio: conversion, cuts and adjustments, sound effects, reverb, normalization, and equalization.</li>
+              <li data-i18n="experience.multimedia.p5">Video: dynamic editing, scene editing, audio adjustments, subtitles, and AI-assisted translations.</li>
+              <li data-i18n="experience.multimedia.p6">Results: +7,500 audio files edited and saved in the cloud; +550 videos published with subtitles and translations in Portuguese, English, and Spanish.</li>
+            </ul>
+            <hr>
+          </div>
+
+          <div class="w3-container">
+            <h5 class="w3-opacity">
+              <b data-i18n="experience.sports-trader.title">Sports Trader - Freelance work on Betfair</b>
+            </h5>
+            <h6 class="w3-text-teal">
+              <i class="fa fa-calendar fa-fw w3-margin-right"></i>
+              <span data-i18n="experience.sports-trader.date_text">March 2021 -</span>
+              <span class="w3-tag w3-teal w3-round" data-i18n="experience.sports-trader.date_tag">December 2021</span>
+            </h6>
+
+            <!-- Use list for clear bullet points; these are translatable -->
+            <ul class="experience-list">
+              <li data-i18n="experience.sports-trader.p1">Specialized services in sports investment operations, focusing on statistical 
+                analysis and intelligent strategies to maximize results.</li>
+              <li data-i18n="experience.sports-trader.p2">Probability and Statistics applied to soccer games</li>
+              <li data-i18n="experience.sports-trader.p3">Operations in the 1st half, 2nd half and entire game</li>
+              <li data-i18n="experience.sports-trader.p4">Goal analysis (under/over), averages, percentages and decisive minutes</li>
+              <li data-i18n="experience.sports-trader.p5">Back/Lay strategies for favorites, home and away teams</li>
+              <li data-i18n="experience.sports-trader.p6">Pre-game, live and post-game analysis</li>
+              <li data-i18n="experience.sports-trader.p7">Exclusive tools: investment diaries and calculator</li>
+              <li data-i18n="experience.sports-trader.p8">Bankroll management and personalized trading plans</li>
+              <li data-i18n="experience.sports-trader.p9">Emotional control and psychological discipline</li>
+              <li data-i18n="experience.sports-trader.p10">Advanced study of odds (speed, interval and resistance)</li>
+              <li data-i18n="experience.sports-trader.p11">Objective: to offer security, consistency and intelligence in decision-making for sports investors.</li>
+            </ul>
+            <hr>
+          </div>
+
+          <div class="w3-container">
+            <h5 class="w3-opacity">
+              <b data-i18n="experience.administrative-assistant.title">Administrative Assistant - Vale Do Ribeira University Center (Univr)</b>
+            </h5>
+            <h6 class="w3-text-teal">
+              <i class="fa fa-calendar fa-fw w3-margin-right"></i>
+              <span data-i18n="experience.administrative-assistant.date_text">July 2016 -</span>
+              <span class="w3-tag w3-teal w3-round" data-i18n="experience.administrative-assistant.date_tag">September 2019</span>
+            </h6>
+
+            <!-- Use list for clear bullet points; these are translatable -->
+            <ul class="experience-list">
+              <li data-i18n="experience.administrative-assistant.p1">Sector: CTE (Educational Technology Center) Main activities:</li>
+              <li data-i18n="experience.administrative-assistant.p2">Remote support,</li>
+              <li data-i18n="experience.administrative-assistant.p3">Development, creation of layout and visual standardization,</li>
+              <li data-i18n="experience.administrative-assistant.p4">Use of the main technological tools (Cloud - Drive, YouTube),</li>
+              <li data-i18n="experience.administrative-assistant.p5">Management of the Virtual Learning Environment (AVA) - Moodle Platform. </li>
+              <li data-i18n="experience.administrative-assistant.p6">Elaboration of academic schedule (Urania),</li>
+              <li data-i18n="experience.administrative-assistant.p7">Calendar of extra-class activities.</li>
+              <li data-i18n="experience.administrative-assistant.p8">Receiving and sending e-mails,</li>
+              <li data-i18n="experience.administrative-assistant.p9">Elaboration and control of various documents,</li>
+              <li data-i18n="experience.administrative-assistant.p10">Control of internal information,</li>
+              <li data-i18n="experience.administrative-assistant.p11">Elaboration of spreadsheets,</li>
+              <li data-i18n="experience.administrative-assistant.p12">Elaboration of reports,</li>
+              <li data-i18n="experience.administrative-assistant.p13">Assistance to faculty and students,</li>
+              <li data-i18n="experience.administrative-assistant.p14">Direct assistance to the Institutional Researcher - responsible for completion of the Higher Education Census,</li>
+              <li data-i18n="experience.administrative-assistant.p15">Assistance in registering and maintaining the ENADE,</li>
+              <li data-i18n="experience.administrative-assistant.p16">Other day-to-day activities.</li>
+            </ul>
+            <hr>
+          </div>
+
+          <div class="w3-container">
+            <h5 class="w3-opacity">
+              <b data-i18n="experience.intern-registro.title">Business Administration Intern - Regional Education Unit of Registro</b>
+            </h5>
+            <h6 class="w3-text-teal">
+              <i class="fa fa-calendar fa-fw w3-margin-right"></i>
+              <span data-i18n="experience.intern-registro.date_text">July 2014 -</span>
+              <span class="w3-tag w3-teal w3-round" data-i18n="experience.intern-registro.date_tag">June 2016</span>
+            </h6>
+
+            <!-- Use list for clear bullet points; these are translatable -->
+            <ul class="experience-list">
+              <li data-i18n="experience.intern-registro.p1">Sector: NIET (Nucleus of Educational Information and Technology)</li>
+              <li data-i18n="experience.intern-registro.p2">Expertise in technical support level I, telephone, remote (TeamViewer) and field service.</li>
+              <li data-i18n="experience.intern-registro.p3">Help Desk: Whats App Business, messenger, Blue Talk and other tools (Blue Control and Blue Lab)</li>
+              <li data-i18n="experience.intern-registro.p4">Planning and development of social projects, digital inclusion, micro computing and social media.</li>
+              <li data-i18n="experience.intern-registro.p5">Elaboration of activities related to the education, training and management of monitoring teams. </li>
+              <li data-i18n="experience.intern-registro.p6">Computer maintenance and network configuration.</li>
+            </ul>
+            <hr>
+          </div>
+
+          <div class="w3-container">
+            <h5 class="w3-opacity">
+              <b data-i18n="experience.intern-miracatu.title">Business Administration Intern - Regional Education Unit of Miracatu</b>
+            </h5>
+            <h6 class="w3-text-teal">
+              <i class="fa fa-calendar fa-fw w3-margin-right"></i>
+              <span data-i18n="experience.intern-miracatu.date_text">September 2011 -</span>
+              <span class="w3-tag w3-teal w3-round" data-i18n="experience.intern-miracatu.date_tag">August 2013</span>
+            </h6>
+
+            <!-- Use list for clear bullet points; these are translatable -->
+            <ul class="experience-list">
+              <li data-i18n="experience.intern-miracatu.p1">Sector: NIET (Nucleus of Educational Information and Technology)</li>
+              <li data-i18n="experience.intern-miracatu.p2">Expertise in technical support level I, telephone, remote and field service.</li>
+              <li data-i18n="experience.intern-miracatu.p3">Help Desk: messenger, Blue Talk and other tools (Blue Control and Blue Lab)</li>
+              <li data-i18n="experience.intern-miracatu.p4">Planning and development of social projects, digital inclusion, micro computing and social media.</li>
+              <li data-i18n="experience.intern-miracatu.p5">Elaboration of activities related to the education, training and management of monitoring teams. </li>
+              <li data-i18n="experience.intern-miracatu.p6">Computer maintenance and network configuration,</li>
+              <li data-i18n="experience.intern-miracatu.p7">HTML site update with Dreamweaver software.</li>
+            </ul>
+            <hr>
+          </div>
+
+          <div class="w3-container">
+            <h5 class="w3-opacity">
+              <b data-i18n="experience.cashier-bank.title">Cashier - Bradesco Bank</b>
+            </h5>
+            <h6 class="w3-text-teal">
+              <i class="fa fa-calendar fa-fw w3-margin-right"></i>
+              <span data-i18n="experience.cashier-bank.date_text">April 2009 -</span>
+              <span class="w3-tag w3-teal w3-round" data-i18n="experience.cashier-bank.date_tag">March 2011</span>
+            </h6>
+
+            <!-- Use list for clear bullet points; these are translatable -->
+            <ul class="experience-list">
+              <li data-i18n="experience.cashier-bank.p1">Activities performed:</li>
+              <li data-i18n="experience.cashier-bank.p2">Opening and closing of cash register, ensuring accuracy in financial records.</li>
+              <li data-i18n="experience.cashier-bank.p3">Control and registration of income and expenses, ensuring organization and transparency.</li>
+              <li data-i18n="experience.cashier-bank.p4">Sending mail and documents responsibly and punctually.</li>
+              <li data-i18n="experience.cashier-bank.p5">Processing and receiving payments for bills (water, electricity, telephone, internet, and bank slips).</li>
+              <li data-i18n="experience.cashier-bank.p6">Assisting retirees, pensioners, and INSS beneficiaries with withdrawals and payments.</li>
+              <li data-i18n="experience.cashier-bank.p7">Managing payments to suppliers, maintaining a regular cash flow.</li>
+              <li data-i18n="experience.cashier-bank.p8">Developed skills:</li>
+              <li data-i18n="experience.cashier-bank.p9">Organization and attention to detail.</li>
+              <li data-i18n="experience.cashier-bank.p10">Responsibility in handling cash.</li>
+              <li data-i18n="experience.cashier-bank.p11">Customer service with empathy and efficiency.</li>
+              <li data-i18n="experience.cashier-bank.p12">Agility in administrative and financial processes.</li>
+            </ul>
+            <hr>
+          </div>
+
+          <div class="w3-container">
+            <h5 class="w3-opacity">
+              <b data-i18n="experience.general-services.title">General Services - Tio Beba Supermarkets</b>
+            </h5>
+            <h6 class="w3-text-teal">
+              <i class="fa fa-calendar fa-fw w3-margin-right"></i>
+              <span data-i18n="experience.general-services.date_text">January 2009 -</span>
+              <span class="w3-tag w3-teal w3-round" data-i18n="experience.general-services.date_tag">March 2011</span>
+            </h6>
+
+            <!-- Use list for clear bullet points; these are translatable -->
+            <ul class="experience-list">
+              <li data-i18n="experience.general-services.p1">Extensive professional experience in administrative, commercial, and operational areas, including:</li>
+              <li data-i18n="experience.general-services.p2">Customer service and financial operations: working as a cashier in a supermarket 
+                and bank branch representing Bradesco; responsible for opening and closing the cash register, sending mailbags, processing payments, 
+                withdrawals, and assisting retirees and pensioners of the INSS (Brazilian National Social Security Institute); 
+                managing payments to suppliers.</li>
+              <li data-i18n="experience.general-services.p3">Logistics and operations: organizing and restocking the sales area; 
+                packaging and checking merchandise; supporting home deliveries and loading; verifying receipt and unloading; 
+                dispatching deliveries.</li>
+              <li data-i18n="experience.general-services.p4">Sales and commercial operations: experience as a salesperson of construction 
+                materials, agricultural products, and electronics; customer service; purchasing and pricing merchandise; inventory control and invoice verification.</li>
+              <li data-i18n="experience.general-services.p5">Administration and support: file management, document organization, and support in administrative routines.</li>
+              <li data-i18n="experience.general-services.p6">Skills developed:</li>
+              <li data-i18n="experience.general-services.p7">Organization and attention to detail</li>
+              <li data-i18n="experience.general-services.p8">Developed skills:</li>
+              <li data-i18n="experience.general-services.p9">Responsibility in handling valuables</li>
+              <li data-i18n="experience.general-services.p10">Interpersonal skills and customer service</li>
+              <li data-i18n="experience.general-services.p11">Agility in logistics and administrative processes</li>
+              <li data-i18n="experience.general-services.p12">Adaptability to different roles and departments</li>
+            </ul>
+            <hr>
+          </div>
+        </div>
+
+        <!-- Education -->
+        <div class="w3-container w3-card w3-white">
+          <h2 class="w3-text-grey w3-padding-16">
+            <i class="fa fa-graduation-cap fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>
+            <span data-i18n="education.title">Education</span>
+          </h2>
+
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b data-i18n="education.dio.title">Digital Innovation One (DIO)</b></h5>
+            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><span data-i18n="education.dio.date">October 2021 - Present</span></h6>
+            <p data-i18n="education.dio.text">
+              Largest open IT education platform in Latin America, with over 1 million users. DIO partners with innovative companies,
+              providing immersive learning experiences focused on employability. Main certifications are listed below.
+            </p>
+            <ul>
+              <li><a href="https://www.dio.me/certificate/FGMCMTJB" target="_blank" rel="noopener">Bootcamp AWS - Cloud Amazon Web Services (73h)</a></li>
+              <li><a href="https://www.dio.me/certificate/D6GTPM73" target="_blank" rel="noopener">Bootcamp Orange Tech + | BackEnd (87h)</a></li>
+              <li><a href="https://www.dio.me/certificate/JSJM1OWL" target="_blank" rel="noopener">Bootcamp Orange Tech + (78h)</a></li>
+              <li><a href="https://www.dio.me/certificate/ZRC0TIXG" target="_blank" rel="noopener">Bootcamp CAIXA - Inteligência Artificial na Prática (28h)</a></li>
+              <li><a href="https://www.dio.me/certificate/HO7TUMQP" target="_blank" rel="noopener">Bootcamp Kotlin Experience (40h)</a></li>
+              <li><a href="https://www.dio.me/certificate/K7AL7VL8" target="_blank" rel="noopener">Bootcamp Trainee Grupo Carrefour Brasil - Liderança Negra (43h)</a></li>
+              <li><a href="https://www.dio.me/certificate/SQ91OG77" target="_blank" rel="noopener">Cloud Fullstack Bootcamp - Warburg Pincus (151h)</a></li>
+              <li><a href="https://www.dio.me/certificate/XOUKWJXX" target="_blank" rel="noopener">Bootcamp NTT DATA Diversidade em Tech (114h)</a></li>
+              <li><a href="https://www.dio.me/certificate/XKISJSVJ" target="_blank" rel="noopener">Bootcamp Cloud DevOps Experience - Banco Carrefour (101h)</a></li>
+              <li><a href="https://www.dio.me/certificate/DJTPLYNM" target="_blank" rel="noopener">Bootcamp Potência Tech powered by iFood - Java Beginners (91h)</a></li>
+              <li><a href="https://www.dio.me/certificate/6F95E2E6" target="_blank" rel="noopener">Bootcamp Québec Java Digital (93h)</a></li>
+              <li><a href="https://www.dio.me/certificate/AD097E0B" target="_blank" rel="noopener">Bootcamp Geração Tech Unimed-BH - Ciência de dados (126h)</a></li>
+              <li><a href="https://www.dio.me/certificate/9B065831" target="_blank" rel="noopener">Santander Bootcamp Mobile Developer (80h)</a></li>
+              <li><a href="https://www.dio.me/certificate/F318884A" target="_blank" rel="noopener">Santander Bootcamp Fullstack Developer (120h)</a></li>
+              <li><a href="https://www.dio.me/certificate/948515C9" target="_blank" rel="noopener">Bootcamp Impulso Fullstack Web Developer (110h)</a></li>
+              <li><a href="https://www.dio.me/certificate/B499AF19" target="_blank" rel="noopener">Bootcamp Eduzz Fullstack Developer #2 (95h)</a></li>
+              <li><a href="https://www.dio.me/certificate/B8F50F9A" target="_blank" rel="noopener">Bootcamp Inter Frontend Developer (99h)</a></li>
+              <li><a href="https://www.dio.me/certificate/B39DD166" target="_blank" rel="noopener">Bootcamp MRV Fullstack Developer (107h)</a></li>
+              <li><a href="https://www.dio.me/certificate/6C1BCA92" target="_blank" rel="noopener">Bootcamp Cognizant Java Developer (96h)</a></li>
+              <li><a href="https://www.dio.me/certificate/A71E98B4" target="_blank" rel="noopener">Bootcamp Amdocs JAVA Developer (88h)</a></li>
+              <li><a href="https://www.dio.me/certificate/D76B27D6" target="_blank" rel="noopener">Bootcamp Spread Java Developer (97h)</a></li>
+              <li><a href="https://www.dio.me/certificate/C8EB6EAD" target="_blank" rel="noopener">Bootcamp NTT DATA New Talents #3 Java (91h)</a></li>
+              <li><a href="https://www.dio.me/certificate/12CC94E8" target="_blank" rel="noopener">Bootcamp NTT DATA New Talents #3 .NET (82h)</a></li>
+              <li><a href="https://www.dio.me/certificate/8EB62158" target="_blank" rel="noopener">Bootcamp TQI Java Developer (125h)</a></li>
+              <li><a href="https://www.dio.me/certificate/5472E669" target="_blank" rel="noopener">Bootcamp Impulso React Web Developer (67h)</a></li>
+              <li><a href="https://www.dio.me/certificate/24BF4448" target="_blank" rel="noopener">Bootcamp Eduzz Fullstack Developer (95h)</a></li>
+              <li><a href="https://www.dio.me/certificate/73748149" target="_blank" rel="noopener">Bootcamp Take Blip Fullstack Developer #2 (67h)</a></li>
+              <li><a href="https://www.dio.me/certificate/5F94D6E9" target="_blank" rel="noopener">Bootcamp everis Kotlin Developer (80h)</a></li>
+              <li><a href="https://www.dio.me/certificate/3391857E" target="_blank" rel="noopener">Bootcamp everis New Talents #2 .NET (62h)</a></li>
+              <li><a href="https://www.dio.me/certificate/0924856C" target="_blank" rel="noopener">Bootcamp everis New Talents #2 Java (70h)</a></li>
+              <li><a href="https://www.dio.me/certificate/CB26AFDA" target="_blank" rel="noopener">Bootcamp GFT Java & AWS Developer (50h)</a></li>
+              <li><a href="https://www.dio.me/certificate/B871E294" target="_blank" rel="noopener">Bootcamp Decola Tech (40h)</a></li>
+              <li><a href="https://www.dio.me/certificate/A61F3DD7" target="_blank" rel="noopener">Bootcamp Carrefour Android Developer (100h)</a></li>
+              <li><a href="https://www.dio.me/certificate/0FE6E863" target="_blank" rel="noopener">Bootcamp Capgemini Fullstack Java and Angular (117h)</a></li>
+              <li><a href="https://www.dio.me/certificate/D817448F" target="_blank" rel="noopener">Bootcamp everis Site Reliability Engineer Essential (72h)</a></li>
+              <li><a href="https://www.dio.me/certificate/8A088C01" target="_blank" rel="noopener">Bootcamp NTT DATA Quality Assurance Beginner #3 (37h)</a></li>
+              <li><a href="https://www.dio.me/certificate/7C02E955" target="_blank" rel="noopener">Bootcamp everis Quality Assurance Beginner #2 (38h)</a></li>
+              <li><a href="https://www.dio.me/certificate/E3130C69" target="_blank" rel="noopener">Bootcamp Avanade CodeAnywhere .NET (76h)</a></li>
+              <li><a href="https://www.dio.me/certificate/B5C509B8" target="_blank" rel="noopener">Bootcamp everis New Talents - Java (88h)</a></li>
+              <li><a href="https://www.dio.me/certificate/308E114F" target="_blank" rel="noopener">Bootcamp everis New Talents .NET (77h)</a></li>
+              <li><a href="https://www.dio.me/certificate/E931D99E" target="_blank" rel="noopener">Bootcamp LocalizaLabs React Developer (94h)</a></li>
+              <li><a href="https://www.dio.me/certificate/000BDAC4" target="_blank" rel="noopener">Bootcamp Inter Android Developer (98h)</a></li>
+              <li><a href="https://www.dio.me/certificate/5488A28B" target="_blank" rel="noopener">Bootcamp MRV Front End SPA Developer (81h)</a></li>
+              <li><a href="https://www.dio.me/certificate/D97A0094" target="_blank" rel="noopener">Bootcamp Banco Carrefour Data Engineer (114h)</a></li>
+              <li><a href="https://www.dio.me/certificate/7325D552" target="_blank" rel="noopener">Bootcamp Cognizant Cloud Data Engineer (100h)</a></li>
+              <li><a href="https://www.dio.me/certificate/87FBFA72" target="_blank" rel="noopener">Bootcamp GFT START #2 .NET (80h)</a></li>
+              <li><a href="https://www.dio.me/certificate/20E3F852" target="_blank" rel="noopener">Bootcamp GFT START #2 Java (82h)</a></li>
+              <li><a href="https://www.dio.me/certificate/29349EA1" target="_blank" rel="noopener">Bootcamp Take Blip Fullstack Developer (97h)</a></li>
+              <li><a href="https://www.dio.me/certificate/E95E19E7" target="_blank" rel="noopener">Santander Bootcamp | Mobile Developer (107h)</a></li>
+              <li><a href="https://www.dio.me/certificate/D72F2579" target="_blank" rel="noopener">Santander Bootcamp | Fullstack Developer (125h)</a></li>
+              <li><a href="https://www.dio.me/certificate/B07E8FBE" target="_blank" rel="noopener">Bootcamp Code Anywhere (94h)</a></li>
+              <li><a href="https://www.dio.me/certificate/705D5583" target="_blank" rel="noopener">Bootcamp LocalizaLabs .NET developer (90h)</a></li>
+              <li><a href="https://www.dio.me/certificate/C94C3027" target="_blank" rel="noopener">Bootcamp MRV .NET Developer (90h)</a></li>
+              <li><a href="https://www.dio.me/certificate/59C80276" target="_blank" rel="noopener">Bootcamp Impulso FullStack Developer (104h)</a></li>
+              <li><a href="https://www.dio.me/certificate/ACE1DF7F" target="_blank" rel="noopener">Bootcamp Avanade Angular Developer (82h)</a></li>
+              <li><a href="https://www.dio.me/certificate/F1807678" target="_blank" rel="noopener">Bootcamp Inter Java Developer (95h)</a></li>
+              <li><a href="https://www.dio.me/certificate/A7BCC41C" target="_blank" rel="noopener">Bootcamp everis FullStack Developer (120h)</a></li>
+              <li><a href="https://www.dio.me/certificate/3D9E50D3" target="_blank" rel="noopener">Bootcamp Avanade Fullstack Developer (101h)</a></li>
+              <li><a href="https://www.dio.me/certificate/D5D8B19C" target="_blank" rel="noopener">Bootcamp everis Quality Assurance Beginner (44h)</a></li>
+              <li><a href="https://www.dio.me/certificate/4D91909A" target="_blank" rel="noopener">Bootcamp SPTech Desenvolvimento Back-end (73h)</a></li>
+              <li><a href="https://www.dio.me/certificate/2EF3DE80" target="_blank" rel="noopener">Bootcamp SPTech Desenvolvimento Front-end (82h)</a></li>
+              <li><a href="https://www.dio.me/certificate/258E15F5" target="_blank" rel="noopener">Bootcamp SPTech Desenvolvimento Fullstack (109h)</a></li>
+              <li><a href="https://www.dio.me/certificate/F216B37D" target="_blank" rel="noopener">Bootcamp Fullstack Developer Banco Carrefour (96h)</a></li>
+              <li><a href="https://www.dio.me/certificate/086DB32C" target="_blank" rel="noopener">Bootcamp Backend Developer Carrefour (100h)</a></li>
+              <li><a href="https://www.dio.me/certificate/2026A52C" target="_blank" rel="noopener">Bootcamp Linux do Zero (44h)</a></li>
+              <li><a href="https://www.dio.me/certificate/B8734BC4" target="_blank" rel="noopener">Bootcamp Pottencial .NET Developer (96h)</a></li>
+              <li><a href="https://www.dio.me/certificate/B29C12BB" target="_blank" rel="noopener">Bootcamp Database Experience (54h)</a></li>
+              <li><a href="https://www.dio.me/certificate/77484DF7" target="_blank" rel="noopener">Bootcamp Linux Experience (42h)</a></li>
+              <li><a href="https://www.dio.me/certificate/36CA8415" target="_blank" rel="noopener">Bootcamp Spring Framework Experience (50h)</a></li>
+              <li><a href="https://www.dio.me/certificate/C7172856" target="_blank" rel="noopener">Bootcamp Impulso Javascript Evolution (107h)</a></li>
+              <li><a href="https://www.dio.me/certificate/C6DFC645" target="_blank" rel="noopener">Bootcamp Geração Tech Unimed-BH | Fullstack (127h)</a></li>
+              <li><a href="https://www.dio.me/certificate/BFA86082" target="_blank" rel="noopener">Bootcamp TQI Fullstack Developer (125h)</a></li>
+              <li><a href="https://www.dio.me/certificate/9D8D97EE" target="_blank" rel="noopener">Bootcamp Decola Tech 3ª edição (61h)</a></li>
+              <li><a href="https://www.dio.me/certificate/56A23642" target="_blank" rel="noopener">Bootcamp GFT Start #5 .NET (53h)</a></li>
+              <li><a href="https://www.dio.me/certificate/B49B23E4" target="_blank" rel="noopener">Bootcamp GFT Start #5 Java (53h)</a></li>
+              <li><a href="https://www.dio.me/certificate/8D03F99C" target="_blank" rel="noopener">Bootcamp Spread Fullstack Developer (98h)</a></li>
+              <li><a href="https://www.dio.me/certificate/4C26F478" target="_blank" rel="noopener">Bootcamp Philips Fullstack Developer | You Are You (132h)</a></li>
+              <li><a href="https://www.dio.me/certificate/86CF54E9" target="_blank" rel="noopener">Bootcamp Carrefour Web Developer (104h)</a></li>
+              <li><a href="https://www.dio.me/certificate/2FFC9AD8" target="_blank" rel="noopener">Bootcamp Órbi Web Games Developer (63h)</a></li>
+              <li><a href="https://www.dio.me/certificate/6F788F4C" target="_blank" rel="noopener">Bootcamp Java Developer (120h)</a></li>
+              <li><a href="https://www.dio.me/certificate/18CA8470" target="_blank" rel="noopener">Bootcamp JavaScript Game Developer (108h)</a></li>
+              <li><a href="https://www.dio.me/certificate/269D66EF" target="_blank" rel="noopener">Bootcamp GFT Quality Assurance #1 (64h)</a></li>
+              <li><a href="https://www.dio.me/certificate/325AFCA8" target="_blank" rel="noopener">Bootcamp Cognizant Cloud Data Engineer #2 (91h)</a></li>
+              <li><a href="https://www.dio.me/certificate/6ECCF99E" target="_blank" rel="noopener">Bootcamp Eduzz Fullstack Developer #3 (95h)</a></li>
+              <li><a href="https://www.dio.me/certificate/2BE2DBE3" target="_blank" rel="noopener">Bootcamp Sportheca Mobile Developer #2 (114h)</a></li>
+              <li><a href="https://www.dio.me/certificate/0F3B0E54" target="_blank" rel="noopener">Bootcamp Take Blip Web Developer (78h)</a></li>
+              <li><a href="https://www.dio.me/certificate/DC62FC17" target="_blank" rel="noopener">Bootcamp GFT Start #4 .NET (58h)</a></li>
+              <li><a href="https://www.dio.me/certificate/621D6BB9" target="_blank" rel="noopener">Bootcamp GFT Start #4 Java (56h)</a></li>
+              <li><a href="https://www.dio.me/certificate/8C83DAE5" target="_blank" rel="noopener">Bootcamp NTT DATA Android Developer (106h)</a></li>
+              <li><a href="https://www.dio.me/certificate/5B35E5D0" target="_blank" rel="noopener">Bootcamp LocalizaLabs .NET Developer #2 (74h)</a></li>
+              <li><a href="https://www.dio.me/certificate/0E138098" target="_blank" rel="noopener">Bootcamp Decola Tech 2ª edição (60h)</a></li>
+              <li><a href="https://www.dio.me/certificate/FCCF3135" target="_blank" rel="noopener">Bootcamp GFT Start #3 .NET (58h)</a></li>
+              <li><a href="https://www.dio.me/certificate/FF959E3A" target="_blank" rel="noopener">Bootcamp GFT Start #3 Java (56h)</a></li>
+              <li><a href="https://www.dio.me/certificate/07E55403" target="_blank" rel="noopener">Bootcamp HTML Web Developer (27h)</a></li>
+              <li><a href="https://www.dio.me/certificate/9B95556E" target="_blank" rel="noopener">Bootcamp .Net Fundamentals (40h)</a></li>
+            </ul>
+            <hr>
+          </div>
+
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b data-i18n="education.univr.mba">VALE DO RIBEIRA UNIVERSITY CENTER (UNIVR) - MBA</b></h5>
+            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><span data-i18n="education.univr.mba.date">2017 - 2018</span></h6>
+            <p data-i18n="education.univr.mba.text">MBA in Information Technology Management and Governance</p>
+          </div>
+
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b data-i18n="education.univr.bachelor">VALE DO RIBEIRA UNIVERSITY CENTER (UNIVR) - Bachelor's</b></h5>
+            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i><span data-i18n="education.univr.bachelor.date">2010 - 2017</span></h6>
+            <p data-i18n="education.univr.bachelor.text">Bachelor's Degree in Business Administration</p>
+          </div>
+        </div>
+
+        <!-- Projects -->
+        <div class="w3-container w3-card w3-white w3-margin-bottom">
+          <h2 class="w3-text-grey w3-padding-16">
+            <i class="fa fa-git fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>
+            <span data-i18n="projects.title">Projects</span>
+          </h2>
+
+                    <div class="w3-container">
+            <h6 class="w3-text-teal">
+              <i class="fa fa-github fa-fw w3-margin-right"></i>
+              <a href="https://github.com/njtsb1" target="_blank" rel="noopener">Nivaldo Beirão</a>
+            </h6>
+            <ul>
+              <li><a href="https://github.com/njtsb1/Canvas_type_application_Power_Platform" target="_blank" rel="noopener" data-i18n="projects.github.p1">Criando um aplicativo do tipo Canvas com a Power Platform</a></li>
+              <li><a href="https://github.com/njtsb1/Add_Security_APIs_AWS_Cognito" target="_blank" rel="noopener" data-i18n="projects.github.p2">Adicionando Segurança em APIs na AWS com Amazon Cognito</a></li>
+              <li><a href="https://github.com/njtsb1/Rest_Assured_API_Test_Automation" target="_blank" rel="noopener" data-i18n="projects.github.p3">Explorando o Rest Assured Para a Automação de Testes de API</a></li>
+              <li><a href="https://github.com/njtsb1/QA_Professional_Manual_Functional_Testing" target="_blank" rel="noopener" data-i18n="projects.github.p4">O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais</a></li>
+              <li><a href="https://github.com/njtsb1/Implementing_a_Login_Screen_with_Validation_Using_TypeScript" target="_blank" rel="noopener" data-i18n="projects.github.p5">Implementando Uma Tela de Login Com Validação Usando TypeScript</a></li>
+              <li><a href="https://github.com/njtsb1/Developing_the_Dio_Platform_Registration_Screen_with_React" target="_blank" rel="noopener" data-i18n="projects.github.p6">Desenvolvendo a Tela de Cadastro da Plataforma Dio com React</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_a_GitHub_Repository_Wiki_with_React" target="_blank" rel="noopener" data-i18n="projects.github.p7">Criando Uma Wiki de Repositórios do GitHub Com React</a></li>
+              <li><a href="https://github.com/njtsb1/Identifying_your_skills_that_can_be_monetized" target="_blank" rel="noopener" data-i18n="projects.github.p8">Identificando suas Habilidades que Podem ser Remuneradas</a></li>
+              <li><a href="https://github.com/njtsb1/AI_Interviewer_Your_Intelligent_Interview_Simulator" target="_blank" rel="noopener" data-i18n="projects.github.p9">IA Entrevistador: Seu Simulador Inteligente de Entrevistas</a></li>
+              <li><a href="https://github.com/njtsb1/AI_Career_Mentor_Discover_Your_Future_in_Tech" target="_blank" rel="noopener" data-i18n="projects.github.p10">IA Mentor de Carreira: Descubra Seu Futuro em Tech</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_a_Personal_Finance_Organization_App_with_Vibe_Coding" target="_blank" rel="noopener" data-i18n="projects.github.p11">Criando um APP de Organização de Finanças Pessoais com Vibe Coding</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_a_Calculator_with_React" target="_blank" rel="noopener" data-i18n="projects.github.p12">Criando Uma Calculadora Com React</a></li>
+              <li><a href="https://github.com/njtsb1/Abstracting_DIO_Formations_Using_Object_Orientation_with_Kotlin" target="_blank" rel="noopener" data-i18n="projects.github.p13">Abstraindo Formações da DIO Usando Orientação a Objetos com Kotlin</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_a_BuzzFeed_Clone_with_Angular" target="_blank" rel="noopener" data-i18n="projects.github.p14">Criando um Clone do BuzzFeed com Angular</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_a_Blog_with_Angular" target="_blank" rel="noopener" data-i18n="projects.github.p15">Criando um Blog com Angular</a></li>
+              <li><a href="https://github.com/njtsb1/Building_Pok-dex_with-_JS" target="_blank" rel="noopener" data-i18n="projects.github.p16">Construindo uma Pokédex com JavaScript</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_your_First_Landing_Page_with_HTML_and_CSS" target="_blank" rel="noopener" data-i18n="projects.github.p17">Criando sua Primeira Landing Page com HTML e CSS</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_Your_First_Complete_Website_with_HTML" target="_blank" rel="noopener" data-i18n="projects.github.p18">Criando seu Primeiro Site Completo com HTML</a></li>
+              <li><a href="https://github.com/njtsb1/Create_a_Web_Page_Using_Learned_Tags" target="_blank" rel="noopener" data-i18n="projects.github.p19">Criar Uma Página Web Utilizando as Tags Aprendidas</a></li>
+              <li><a href="https://github.com/njtsb1/CI-CD_Pipeline_Cloud_Build_Terraform" target="_blank" rel="noopener" data-i18n="projects.github.p20">Criando Pipeline de CI/CD com Cloud Build e Terraform</a></li>
+              <li><a href="https://github.com/njtsb1/GCP_Using_Cloud_Shell" target="_blank" rel="noopener" data-i18n="projects.github.p21">Utilizando o Cloud Shell</a></li>
+              <li><a href="https://github.com/njtsb1/Customizing_Dashboard_Changing_Language_Preferences" target="_blank" rel="noopener" data-i18n="projects.github.p22">Personalizando Dashboard e Trocando as Preferências de Idioma</a></li>
+              <li><a href="https://github.com/njtsb1/Billing_export_GCP" target="_blank" rel="noopener" data-i18n="projects.github.p23">Exportação do Billing na Google Cloud Platform</a></li>
+              <li><a href="https://github.com/njtsb1/Defining_Billing_Budget_GCP" target="_blank" rel="noopener" data-i18n="projects.github.p24">Definição de Orçamento de Billing na Google Cloud Platform</a></li>
+              <li><a href="https://github.com/njtsb1/Designing_Folder_Project_Organization_Access_Groups_GCP" target="_blank" rel="noopener" data-i18n="projects.github.p25">Desenhando Sua Organização de Pastas e Projetos e Grupos de Acessos na Google Cloud Platform</a></li>
+              <li><a href="https://github.com/njtsb1/Deploy_Pipeline_GitLab_Kubernetes" target="_blank" rel="noopener" data-i18n="projects.github.p26">Criando um Pipeline de Deploy com GitLab e Kubernetes</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_an_Application_Deploy" target="_blank" rel="noopener" data-i18n="projects.github.p27">Criando um Deploy de uma Aplicação</a></li>
+              <li><a href="https://github.com/njtsb1/Defining_Local_Swarm_Cluster_Vagrant" target="_blank" rel="noopener" data-i18n="projects.github.p28">Definição de um Cluster Swarm Local com o Vagrant</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_WEB_Application_Container" target="_blank" rel="noopener" data-i18n="projects.github.p29">Criando um Container de uma Aplicação WEB</a></li>
+              <li><a href="https://github.com/njtsb1/Exploring_Demographics_AWS_Athena" target="_blank" rel="noopener" data-i18n="projects.github.p30">Explorando Dados Demográficos com Serviços de Big Data na AWS</a></li>
+              <li><a href="https://github.com/njtsb1/Training_Neural_Networks_Transfer_Learning" target="_blank" rel="noopener" data-i18n="projects.github.p31">Treinamento de Redes Neurais com Transfer Learning</a></li>
+              <li><a href="https://github.com/njtsb1/Best_practices_DynamoDB" target="_blank" rel="noopener" data-i18n="projects.github.p32">Boas práticas com DynamoDB</a></li>
+              <li><a href="https://github.com/njtsb1/EDA_COVID-19_Python" target="_blank" rel="noopener" data-i18n="projects.github.p33">Criando Modelos com Python e Machine Learning para Prever a Evolução do COVID-19 no Brasil</a></li>
+              <li><a href="https://github.com/njtsb1/Soccer_News_API" target="_blank" rel="noopener" data-i18n="projects.github.p34">App Nativo Sobre Futebol Feminino com Android Jetpack e Java</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_the_Front-end_with_ReactJS" target="_blank" rel="noopener" data-i18n="projects.github.p35">Criando o Front-end com ReactJS</a></li>
+              <li><a href="https://github.com/njtsb1/Booking_App_DIO" target="_blank" rel="noopener" data-i18n="projects.github.p36">Booking App DIO</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_the_iFood_Interface_with_React_Native" target="_blank" rel="noopener" data-i18n="projects.github.p37">Criando a Interface do iFood com React Native</a></li>
+              <li><a href="https://github.com/njtsb1/Infrastructure_Code_Serverless_Framework_AWS" target="_blank" rel="noopener" data-i18n="projects.github.p38">Infraestrutura Como Código com Serverless Framework na AWS</a></li>
+              <li><a href="https://github.com/njtsb1/Death_Star_Access_Control" target="_blank" rel="noopener" data-i18n="projects.github.p39">Criando um Gerenciador de Espaçonaves do Star Wars com SQL Server + .NET</a></li>
+              <li><a href="https://github.com/njtsb1/Exchange_Currency_Conversion_App" target="_blank" rel="noopener" data-i18n="projects.github.p40">Criando um Aplicativo para Conversão de Moedas e Câmbio</a></li>
+              <li><a href="https://github.com/njtsb1/Blog_With_Java_Angular" target="_blank" rel="noopener" data-i18n="projects.github.p41">Desenvolvendo seu Blog com as Tecnologias de Java e Angular</a></li>
+              <li><a href="https://github.com/njtsb1/ReactJS_News_App_PWA" target="_blank" rel="noopener" data-i18n="projects.github.p42">Criando uma Aplicação ReactJS de Notícias Utilizando PWA</a></li>
+              <li><a href="https://github.com/njtsb1/Restaurants_Google_Maps_Query_API" target="_blank" rel="noopener" data-i18n="projects.github.p43">Criando um Site para Encontrar Restaurantes Usando Google Maps que Consulta API do Google</a></li>
+              <li><a href="https://github.com/njtsb1/AWS_Big_Data_Ecosystem_Cloud" target="_blank" rel="noopener" data-i18n="projects.github.p44">Criando seu Ecossistema de Big Data na Nuvem</a></li>
+              <li><a href="https://github.com/njtsb1/Data_Analytics_Python_Pandas" target="_blank" rel="noopener" data-i18n="projects.github.p45">Análise de dados com Python e Pandas</a></li>
+              <li><a href="https://github.com/njtsb1/Api_Catalog_Games" target="_blank" rel="noopener" data-i18n="projects.github.p46">Criando um Catálogo de Jogos Usando Boas Práticas de Arquitetura com .NET</a></li>
+              <li><a href="https://github.com/njtsb1/Spring_Cloud_Microservices_Architecture_Project" target="_blank" rel="noopener" data-i18n="projects.github.p47">Construindo um Projeto com Arquitetura Baseada em Microsserviços Usando Spring Cloud</a></li>
+              <li><a href="https://github.com/njtsb1/Point_Access_Control_System_Spring_Boot" target="_blank" rel="noopener" data-i18n="projects.github.p48">Construindo um Sistema de Controle de Ponto e Acesso com Spring Boot</a></li>
+              <li><a href="https://github.com/njtsb1/Classifieds_System_with_Ruby" target="_blank" rel="noopener" data-i18n="projects.github.p49">Criando um Sistema de Classificados com Ruby on Rails</a></li>
+              <li><a href="https://github.com/njtsb1/MindApp_Cloud_Tags_with_Ruby" target="_blank" rel="noopener" data-i18n="projects.github.p50">MindApp - Desenvolvendo uma Cloud Tags com Ruby</a></li>
+              <li><a href="https://github.com/njtsb1/Dragon-BallZ-Sphere-Manager" target="_blank" rel="noopener" data-i18n="projects.github.p51">Crie um Gerenciador de Esferas do Dragon Ball Z Usando ReactJS, Jest, React Testing Library e Cypress</a></li>
+              <li><a href="https://github.com/njtsb1/Developing_SPA_with_Angular" target="_blank" rel="noopener" data-i18n="projects.github.p52">Desenvolvendo SPA com Angular</a></li>
+              <li><a href="https://github.com/njtsb1/Budget_System_CQRS_Quarkus_Kafka_Deploy_EKS" target="_blank" rel="noopener" data-i18n="projects.github.p53">Criando um Sistema de Orçamento, Utilizando CQRS, Quarkus, Kafka e Deploy no EKS</a></li>
+              <li><a href="https://github.com/njtsb1/Java_Kubernetes" target="_blank" rel="noopener" data-i18n="projects.github.p54">Rodando sua Aplicação Java no Kubernetes. Do Deploy ao Debug sem Medo!</a></li>
+              <li><a href="https://github.com/njtsb1/E-Commerce_Solution_with_Microservices_in_Java" target="_blank" rel="noopener" data-i18n="projects.github.p55">Criando uma Solução de E-commerce com Microsserviços em Java</a></li>
+              <li><a href="https://github.com/njtsb1/Heroes_SpringWebflux_API" target="_blank" rel="noopener" data-i18n="projects.github.p56">Criando seu Gerenciador de Super Heróis da Marvel e da DC em uma API Reativa com Spring Boot</a></li>
+              <li><a href="https://github.com/njtsb1/Cypress_E2E_Test_Angular" target="_blank" rel="noopener" data-i18n="projects.github.p57">Utilizando o Cypress E2E para testar um Blog em Angular</a></li>
+              <li><a href="https://github.com/njtsb1/API_Weather_Forecast" target="_blank" rel="noopener" data-i18n="projects.github.p58">Criando Projeto para Consultar a Previsão do Tempo via API</a></li>
+              <li><a href="https://github.com/njtsb1/Stack_Tests_.NET_Crowdfunding_Project" target="_blank" rel="noopener" data-i18n="projects.github.p59">Implementando sua Stack de Testes de Unidade e Integrados em um Projeto .NET de Crowdfunding</a></li>
+              <li><a href="https://github.com/njtsb1/Building_a_MongoDB_Integrated_.NET_API_Project" target="_blank" rel="noopener" data-i18n="projects.github.p60">Construindo um Projeto de uma API.NET Integrada ao MongoDB</a></li>
+              <li><a href="https://github.com/njtsb1/Building_a_ChatbotFit_on_Telegram_with_JavaScript_and_NodeJS" target="_blank" rel="noopener" data-i18n="projects.github.p61">Construindo um ChatbotFit no Telegram com JavaScript e NodeJS</a></li>
+              <li><a href="https://github.com/njtsb1/Building_Sexy_APIs_Using_Serverless_Architecture" target="_blank" rel="noopener" data-i18n="projects.github.p62">Construindo sexy APIs Usando Arquitetura Serverless</a></li>
+              <li><a href="https://github.com/njtsb1/Background_Tasks_Using_Node.js_and_Redis" target="_blank" rel="noopener" data-i18n="projects.github.p63">Tarefas em Background Utilizando Node.js e Redis</a></li>
+              <li><a href="https://github.com/njtsb1/Requesting_Data_from_a_Cryptocurrency_API" target="_blank" rel="noopener" data-i18n="projects.github.p64">Requisitando Dados de uma API de Criptomoedas</a></li>
+              <li><a href="https://github.com/njtsb1/Working_with_TypeScript" target="_blank" rel="noopener" data-i18n="projects.github.p65">Introdução Prática ao TypeScript</a></li>
+              <li><a href="https://github.com/njtsb1/Gymnastics_Academy_Project" target="_blank" rel="noopener" data-i18n="projects.github.p66">Conhecendo Spring Data JPA na prática com Java</a></li>
+              <li><a href="https://github.com/njtsb1/Tech_Potential_Challenge_Payment_API" target="_blank" rel="noopener" data-i18n="projects.github.p67">Desafio Tech Pottencial: Payment API</a></li>
+              <li><a href="https://github.com/njtsb1/Task_Scheduling_System" target="_blank" rel="noopener" data-i18n="projects.github.p68">Construindo um Sistema de Agendamento de Tarefas com Entity Framework</a></li>
+              <li><a href="https://github.com/njtsb1/Smartphone_with_POO_in_CSharp" target="_blank" rel="noopener" data-i18n="projects.github.p69">Criando um Sistema e Abstraindo um Celular com POO em C#</a></li>
+              <li><a href="https://github.com/njtsb1/Hotel_Hosting_System_in_C_Sharp" target="_blank" rel="noopener" data-i18n="projects.github.p70">Construindo um Sistema de Hospedagem de um Hotel no C#</a></li>
+              <li><a href="https://github.com/njtsb1/Parking-with-C-Sharp" target="_blank" rel="noopener" data-i18n="projects.github.p71">Construindo um Sistema para um Estacionamento com C#</a></li>
+              <li><a href="https://github.com/njtsb1/BD_SQL_NoSQL" target="_blank" rel="noopener" data-i18n="projects.github.p72">O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados</a></li>
+              <li><a href="https://github.com/njtsb1/BD_Oficina_II" target="_blank" rel="noopener" data-i18n="projects.github.p73">Construa um Projeto Lógico de Banco de Dados do Zero</a></li>
+              <li><a href="https://github.com/njtsb1/BD_E-Commerce_II" target="_blank" rel="noopener" data-i18n="projects.github.p74">Construindo seu Primeiro Projeto Lógico de Banco de Dados</a></li>
+              <li><a href="https://github.com/njtsb1/BD_Oficina" target="_blank" rel="noopener" data-i18n="projects.github.p75">Construindo um Esquema Conceitual para Banco De dados</a></li>
+              <li><a href="https://github.com/njtsb1/BD_E-Commerce" target="_blank" rel="noopener" data-i18n="projects.github.p76">Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE</a></li>
+              <li><a href="https://github.com/njtsb1/docker_microservices_toshiro_shibakita" target="_blank" rel="noopener" data-i18n="projects.github.p77">.Docker: Utilização Prática no Cenário de Microsserviços</a></li>
+              <li><a href="https://github.com/njtsb1/Script_PWS" target="_blank" rel="noopener" data-i18n="projects.github.p78">Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)</a></li>
+              <li><a href="https://github.com/njtsb1/Structure_Creation_Script_UDP" target="_blank" rel="noopener" data-i18n="projects.github.p79">Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões</a></li>
+              <li><a href="https://github.com/njtsb1/CLOUD_PARKING" target="_blank" rel="noopener" data-i18n="projects.github.p80">Realizando Deploy na Nuvem de um Conjunto de API's Desenvolvida em Spring Boot</a></li>
+              <li><a href="https://github.com/njtsb1/Shopping" target="_blank" rel="noopener" data-i18n="projects.github.p81">Integrando um Backend em Node.js com um Frontend em React para um E-commerce</a></li>
+              <li><a href="https://github.com/njtsb1/Portifolio_with_animations" target="_blank" rel="noopener" data-i18n="projects.github.p82">Desenvolvendo um Menu Hamburguer e Morphing Menu com CSS Transitions</a></li>
+              <li><a href="https://github.com/njtsb1/Motion_Sensor_App" target="_blank" rel="noopener" data-i18n="projects.github.p83">Construindo um App usando Sensor de Movimento com React Native</a></li>
+              <li><a href="https://github.com/njtsb1/Parking_2.0" target="_blank" rel="noopener" data-i18n="projects.github.p84">Aprenda a Criar um Sistema de Estacionamento Usando TypeScript</a></li>
+              <li><a href="https://github.com/njtsb1/E-commerce_FrontEnd_Angular" target="_blank" rel="noopener" data-i18n="projects.github.p85">Como criar um front-end de um e-commerce utilizando Angular</a></li>
+              <li><a href="https://github.com/njtsb1/Map_COVID19_Data" target="_blank" rel="noopener" data-i18n="projects.github.p86">Desenvolvendo uma Progressive Web Application com React para Mapear os Dados do COVID19 Pelo Mundo</a></li>
+              <li><a href="https://github.com/njtsb1/Beer_Inventory_Management" target="_blank" rel="noopener" data-i18n="projects.github.p87">Desenvolvimento de Testes Unitários para Validar uma API REST de Gerenciamento Estoques de Cerveja</a></li>
+              <li><a href="https://github.com/njtsb1/Meeting_Room_Manager" target="_blank" rel="noopener" data-i18n="projects.github.p88">Crie seu Gerenciador de Salas de Reuniões com Java e Angular</a></li>
+              <li><a href="https://github.com/njtsb1/Cities_query_Rest_API" target="_blank" rel="noopener" data-i18n="projects.github.p89">Construindo uma API Rest de Consulta de Cidades do Brasil do Zero até a Produção</a></li>
+              <li><a href="https://github.com/njtsb1/People_Management_System" target="_blank" rel="noopener" data-i18n="projects.github.p90">Desenvolvendo um Sistema de Gerenciamento de Pessoas em API REST com Spring Boot</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_your_Space_Shooter_style_game" target="_blank" rel="noopener" data-i18n="projects.github.p91">Criando seu Jogo no Estilo Space Shooter</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_your_own_tic-tac-toe_with_HTML_and_Javascript" target="_blank" rel="noopener" data-i18n="projects.github.p92">Criando seu Próprio Jogo da Velha com HTML e Javascript</a></li>
+              <li><a href="https://github.com/njtsb1/Developing_a_memory_game" target="_blank" rel="noopener" data-i18n="projects.github.p93">Desenvolvendo um Jogo da Memória</a></li>
+              <li><a href="https://github.com/njtsb1/Building_your_first_spaceship_game" target="_blank" rel="noopener" data-i18n="projects.github.p94">Construindo o seu Primeiro Jogo de Naves</a></li>
+              <li><a href="https://github.com/njtsb1/Recreating_the_famous_dinosaur_game_without_internet" target="_blank" rel="noopener" data-i18n="projects.github.p95">Recriando o Famoso Jogo do Dinossauro sem Internet</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_a_Fully_Managed_Hadoop_Ecosystem_with_Google_Cloud_Dataproc" target="_blank" rel="noopener" data-i18n="projects.github.p96">Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc</a></li>
+              <li><a href="https://github.com/njtsb1/MySql_How_to_model_a_watched_series_control_bank" target="_blank" rel="noopener" data-i18n="projects.github.p97">MySql - Como Modelar um Banco de Controle de Séries Assistidas</a></li>
+              <li><a href="https://github.com/njtsb1/Making_it_easy_to_create_image_processing_packages_in_Python" target="_blank" rel="noopener" data-i18n="projects.github.p98">Descomplicando a Criação de Pacotes de Processamento de Imagens em Python</a></li>
+              <li><a href="https://github.com/njtsb1/Building_URL_Shortener" target="_blank" rel="noopener" data-i18n="projects.github.p99">Construindo Encurtador de URL</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_a_fully_componentized_frontend_in_practice_with_ReactJS" target="_blank" rel="noopener" data-i18n="projects.github.p100">Criando um Front-end Totalmente Componentizado na Prática com ReactJS</a></li>
+              <li><a href="https://github.com/njtsb1/Genius_style_memory_game" target="_blank" rel="noopener" data-i18n="projects.github.p101">Criando seu Jogo de Memória Estilo Genius</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_an_App_to_Showcase_Your_GitHub_Portfolio" target="_blank" rel="noopener" data-i18n="projects.github.p102">Criando um App para Apresentar seu Portfólio do GitHub</a></li>
+              <li><a href="https://github.com/njtsb1/Business_Card" target="_blank" rel="noopener" data-i18n="projects.github.p103">Criando um App de Cartão de Visitas em Kotlin</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_a_Reminders_and_Tasks_App_with_Kotlin" target="_blank" rel="noopener" data-i18n="projects.github.p104">Criando um App de Lembretes e Tarefas com Kotlin</a></li>
+              <li><a href="https://github.com/njtsb1/Exploring_Design_Patterns_in_Practice_with_Java" target="_blank" rel="noopener" data-i18n="projects.github.p105">Explorando Padrões de Projetos na Prática com Java</a></li>
+              <li><a href="https://github.com/njtsb1/Abstracting_a_Bootcamp_Using_Object_Oriented_Java" target="_blank" rel="noopener" data-i18n="projects.github.p106">Abstraindo um Bootcamp Usando Orientação a Objetos em Java</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_a_Digital_Bank_with_Java_and_Object_Orientation" target="_blank" rel="noopener" data-i18n="projects.github.p107">Criando um Banco Digital com Java e Orientação a Objetos</a></li>
+              <li><a href="https://github.com/njtsb1/Abstracting_a_Roleplaying_Game_Using_Object_Oriented_with_CSharp" target="_blank" rel="noopener" data-i18n="projects.github.p108">Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#</a></li>
+              <li><a href="https://github.com/njtsb1/Recreating_the_snake_game_with_JavaScript" target="_blank" rel="noopener" data-i18n="projects.github.p109">Recriando o Jogo da Cobrinha com JavaScript</a></li>
+              <li><a href="https://github.com/njtsb1/Recreating_the_Netflix_Interface" target="_blank" rel="noopener" data-i18n="projects.github.p110">Recriando a Interface do Netflix</a></li>
+              <li><a href="https://github.com/njtsb1/Project-Recreating-Instagram-homepage" target="_blank" rel="noopener" data-i18n="projects.github.p111">Recriando a Página Inicial do Instagram</a></li>
+              <li><a href="https://github.com/njtsb1/Creating_Your_First_Repository_on_GitHub_to_Share_Your_Progress_CC50" target="_blank" rel="noopener" data-i18n="projects.github.p112">Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso</a></li>
+              <li><a href="https://github.com/njtsb1/Creating-a-simple-.NET-series-registration-APP" target="_blank" rel="noopener" data-i18n="projects.github.p113">Criando um APP Simples de Cadastro de Séries em .NET</a></li>
+              <li><a href="https://github.com/njtsb1/Creating-a-bank-transfer-application-with-.NET" target="_blank" rel="noopener" data-i18n="projects.github.p114">Criando uma Aplicação de Transferências Bancárias com .NET</a></li>
+            </ul>
+            <hr>
+          </div>
+
+        </div>
+      </div>
+      <!-- End Right Column -->
+
+    </div>
+    <!-- End Grid -->
+  </div>
+  <!-- End Page Container -->
+
+  <!-- Footer -->
+  <footer class="w3-container w3-teal w3-center w3-margin-top">
+    <p data-i18n="footer.social">My Social Networks</p>
+    <a href="https://github.com/njtsb1" target="_blank" rel="noopener"><i class="fa fa-github w3-hover-opacity"></i></a>
+    <a href="https://www.linkedin.com/in/njtsb" target="_blank" rel="noopener"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
+    <p data-i18n="footer.powered">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" rel="noopener">w3.css</a></p>
+  </footer>
+
+  <!-- Local script -->
+  <script src="script.js"></script>
+</body>
+</html>

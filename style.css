@@ -1,0 +1,183 @@
+/* Base font family for the whole page */
+html, body, h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto", sans-serif;
+}
+
+/* Theme variables for light mode (default) */
+/* NOTE: default page background is set to a dark tone so the area behind cards is dark.
+   Cards remain white for contrast. If you prefer cards dark too, uncomment the "Make cards dark" block below. */
+:root {
+  --bg: #121212;        /* page background (dark behind cards) */
+  --card-bg: #ffffff;   /* card background remains white for contrast */
+  --text: #121212;
+  --muted: #121212;
+  --accent: #008080; /* teal */
+  --control-bg: #ffffff;
+}
+
+/* Dark theme variables (applied when .dark-theme is on body) */
+body.dark-theme {
+  --bg: #0b0b0b;
+  --card-bg: #1e1e1e;
+  --text: #e6e6e6;
+  --muted: #b3b3b3;
+  --accent: #2bb8b8;
+  --control-bg: #2a2a2a;
+}
+
+/* Page background and container adjustments */
+body {
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+/* Ensure w3-light-grey class does not override the dark page background */
+body.w3-light-grey {
+  background-color: var(--bg) !important;
+}
+
+/* Top controls area */
+.top-controls {
+  background: transparent;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+/* Buttons and selects in the header */
+#theme-toggle {
+  background-color: var(--control-bg);
+  color: var(--text);
+  border: 1px solid rgba(0,0,0,0.08);
+}
+
+body.dark-theme #theme-toggle {
+  border: 1px solid rgba(255,255,255,0.06);
+}
+
+/* Card background override to use theme variables */
+.w3-card, .w3-white {
+  background-color: var(--card-bg) !important;
+  color: var(--text) !important;
+}
+
+/* Accent color for teal elements - text only, not background */
+.w3-text-teal {
+  color: var(--accent) !important;
+}
+
+.w3-teal {
+  background-color: var(--accent) !important;
+  color: #fff !important;
+}
+
+/* Muted text color */
+.w3-text-grey {
+  color: var(--muted) !important;
+}
+
+/* Small responsive tweak for header controls on narrow screens */
+@media (max-width: 600px) {
+  .top-controls .w3-right {
+    float: none !important;
+    text-align: center;
+    margin-top: 8px;
+  }
+}
+
+/* Experience list spacing */
+.experience-list {
+  margin-left: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Skills and Languages progress bars - center the text */
+.w3-light-grey > .w3-teal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff !important;
+  font-weight: 500;
+}
+
+/* Make links visible in both themes */
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Links in headings (projects section) */
+h6 a {
+  color: var(--accent) !important;
+  text-decoration: none;
+}
+
+h6 a:hover {
+  text-decoration: underline;
+}
+
+/* Footer styling */
+footer.w3-container {
+  background-color: var(--accent) !important;
+  color: #fff !important;
+}
+
+/* Social media icons in footer - ensure visibility */
+footer a {
+  color: #ffffff !important;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 24px;
+  display: inline-block;
+}
+
+footer a:hover {
+  opacity: 0.8;
+}
+
+footer i {
+  color: #ffffff !important;
+}
+
+/* Optional: subtle card shadow to separate cards from dark background */
+.w3-card-4 {
+  box-shadow: 0 6px 18px rgba(0,0,0,0.45);
+}
+
+/* Optional: adjust border color of controls to be visible on dark background */
+.w3-select, .w3-button {
+  border-color: rgba(255,255,255,0.06);
+}
+
+/* Accessibility: ensure focus outlines are visible on dark background */
+:focus {
+  outline: 2px solid rgba(43,184,184,0.35);
+  outline-offset: 2px;
+}
+
+/* -----------------------------
+   Alternative: Make cards dark
+   -----------------------------
+   If you prefer the cards themselves to be dark (full dark theme),
+   uncomment the block below and set :root --card-bg to a dark value above.
+*/
+
+/*
+.w3-card, .w3-white {
+  background-color: #1e1e1e !important;
+  color: #e6e6e6 !important;
+  border: 1px solid rgba(255,255,255,0.04);
+}
+
+.w3-light-grey > .w3-teal {
+  color: #fff !important;
+}
+
+footer.w3-container {
+  background-color: var(--accent) !important;
+  color: #fff !important;
+}
+*/
