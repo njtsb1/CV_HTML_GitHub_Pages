@@ -9,6 +9,8 @@ Learning how to build a web page, which will be a replica of an online CV, using
 
 See **[original repository](https://github.com/digitalinnovationone/cv)**
 
+See **[the result](https://njtsb1.github.io/CV_HTML_GitHub_Pages/)**
+
 ---
 
 ## Technologies used
