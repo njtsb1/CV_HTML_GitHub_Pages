@@ -287,6 +287,8 @@ const translations = {
     "projects.github.p112": "Creating Your First GitHub Repository to Share Your Progress",
     "projects.github.p113": "Creating a Simple Series Registration App in .NET",
     "projects.github.p114": "Creating a Bank Transfer Application with .NET",
+    "projects.github.p115": "Creating Your Online CV With HTML and GitHub Pages",
+    "projects.github.p116": "Creating Robust Solutions in Dynamics 365 with the SDK Extension",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -555,6 +557,8 @@ const translations = {
     "projects.github.p112": "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso",
     "projects.github.p113": "Criando um APP Simples de Cadastro de Séries em .NET",
     "projects.github.p114": "Criando uma Aplicação de Transferências Bancárias com .NET",
+    "projects.github.p115": "Criando seu CV Online com HTML e GitHub Pages",
+    "projects.github.p116": "Criando Soluções Robusta em Dynamics 365 com a Extensão do SDK",
     
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -823,6 +827,8 @@ const translations = {
     "projects.github.p112": "Creando tu Primer Repositorio de GitHub para Compartir tu Progreso",
     "projects.github.p113": "Creando una Aplicación Simple de Registro de Series en .NET",
     "projects.github.p114": "Creando una Aplicación de Transferencia Bancaria con .NET",
+    "projects.github.p115": "Creando tu CV Online con HTML y GitHub Pages",
+    "projects.github.p116": "Creando Soluciones Robusta en Dynamics 365 con la Extensión del SDK",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
