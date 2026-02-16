@@ -289,6 +289,7 @@ const translations = {
     "projects.github.p114": "Creating a Bank Transfer Application with .NET",
     "projects.github.p115": "Creating Your Online CV With HTML and GitHub Pages",
     "projects.github.p116": "Creating Robust Solutions in Dynamics 365 with the SDK Extension",
+    "projects.github.p117": "Documenting and Testing Your REST API with Kotlin",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -559,6 +560,7 @@ const translations = {
     "projects.github.p114": "Criando uma Aplicação de Transferências Bancárias com .NET",
     "projects.github.p115": "Criando seu CV Online com HTML e GitHub Pages",
     "projects.github.p116": "Criando Soluções Robusta em Dynamics 365 com a Extensão do SDK",
+    "projects.github.p117": "Documentando e Testando sua API Rest com Kotlin",
     
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -829,6 +831,7 @@ const translations = {
     "projects.github.p114": "Creando una Aplicación de Transferencia Bancaria con .NET",
     "projects.github.p115": "Creando tu CV Online con HTML y GitHub Pages",
     "projects.github.p116": "Creando Soluciones Robusta en Dynamics 365 con la Extensión del SDK",
+    "projects.github.p117": "Documentando y Probando tu API Rest con Kotlin",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
