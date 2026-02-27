@@ -292,6 +292,7 @@ const translations = {
     "projects.github.p117": "Documenting and Testing Your REST API with Kotlin",
     "projects.github.p118": "Contributing to an Open Source Project on GitHub",
     "projects.github.p119": "Simulating a Bank Account Through the Terminal/Console",
+    "projects.github.p120": "Creating a Small System for Validation of a Selection Process",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -565,6 +566,7 @@ const translations = {
     "projects.github.p117": "Documentando e Testando sua API Rest com Kotlin",
     "projects.github.p118": "Contribuindo para um Projeto Open Source no GitHub",
     "projects.github.p119": "Simulando uma Conta Bancária Através do Terminal/Console",
+    "projects.github.p120": "Criando um Pequeno Sistema para Validação de um Processo Seletivo",
     
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -838,6 +840,7 @@ const translations = {
     "projects.github.p117": "Documentando y Probando tu API Rest con Kotlin",
     "projects.github.p118": "Contribuyendo a un Proyecto Open Source en GitHub",
     "projects.github.p119": "Simulando una Cuenta Bancaria a Través del Terminal/Consola",
+    "projects.github.p120": "Creando un Pequeño Sistema para Validar un Proceso de Selección",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
