@@ -293,6 +293,7 @@ const translations = {
     "projects.github.p118": "Contributing to an Open Source Project on GitHub",
     "projects.github.p119": "Simulating a Bank Account Through the Terminal/Console",
     "projects.github.p120": "Creating a Small System for Validation of a Selection Process",
+    "projects.github.p121": "Modeling the iPhone with UML: Music, Calls and Internet Functions",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -567,6 +568,7 @@ const translations = {
     "projects.github.p118": "Contribuindo para um Projeto Open Source no GitHub",
     "projects.github.p119": "Simulando uma Conta Bancária Através do Terminal/Console",
     "projects.github.p120": "Criando um Pequeno Sistema para Validação de um Processo Seletivo",
+    "projects.github.p121": "Modelando o iPhone com UML: Funções de Música, Ligações e Internet",
     
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -841,6 +843,7 @@ const translations = {
     "projects.github.p118": "Contribuyendo a un Proyecto Open Source en GitHub",
     "projects.github.p119": "Simulando una Cuenta Bancaria a Través del Terminal/Consola",
     "projects.github.p120": "Creando un Pequeño Sistema para Validar un Proceso de Selección",
+    "projects.github.p121": "Modelando el iPhone con UML: Funciones de Música, Llamadas e Internet",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
