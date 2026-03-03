@@ -294,6 +294,7 @@ const translations = {
     "projects.github.p119": "Simulating a Bank Account Through the Terminal/Console",
     "projects.github.p120": "Creating a Small System for Validation of a Selection Process",
     "projects.github.p121": "Modeling the iPhone with UML: Music, Calls and Internet Functions",
+    "projects.github.p122": "Publishing Your REST API in the Cloud Using Spring Boot 3, Java 17 and Railway",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -569,6 +570,7 @@ const translations = {
     "projects.github.p119": "Simulando uma Conta Bancária Através do Terminal/Console",
     "projects.github.p120": "Criando um Pequeno Sistema para Validação de um Processo Seletivo",
     "projects.github.p121": "Modelando o iPhone com UML: Funções de Música, Ligações e Internet",
+    "projects.github.p122": "Publicando sua API Rest na Nuvem Usando Spring Boot 3, Java 17 e Railway",
     
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -844,6 +846,7 @@ const translations = {
     "projects.github.p119": "Simulando una Cuenta Bancaria a Través del Terminal/Consola",
     "projects.github.p120": "Creando un Pequeño Sistema para Validar un Proceso de Selección",
     "projects.github.p121": "Modelando el iPhone con UML: Funciones de Música, Llamadas e Internet",
+    "projects.github.p122": "Publicando tu API Rest en la Nube Usando Spring Boot 3, Java 17 y Railway",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
