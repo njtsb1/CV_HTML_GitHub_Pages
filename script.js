@@ -296,6 +296,7 @@ const translations = {
     "projects.github.p121": "Modeling the iPhone with UML: Music, Calls and Internet Functions",
     "projects.github.p122": "Publishing Your REST API in the Cloud Using Spring Boot 3, Java 17 and Railway",
     "projects.github.p123": "Recreating the PlayStation Store Interface with Angular",
+    "projects.github.p124": "Explorando IA Generativa em um Pipeline de ETL com Python",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -573,7 +574,8 @@ const translations = {
     "projects.github.p121": "Modelando o iPhone com UML: Funções de Música, Ligações e Internet",
     "projects.github.p122": "Publicando sua API Rest na Nuvem Usando Spring Boot 3, Java 17 e Railway",
     "projects.github.p123": "Recriando a Interface da PlayStation Store com Angular",
-    
+    "projects.github.p124": "Explorando IA Generativa em um Pipeline de ETL com Python",
+
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
   },
@@ -850,6 +852,7 @@ const translations = {
     "projects.github.p121": "Modelando el iPhone con UML: Funciones de Música, Llamadas e Internet",
     "projects.github.p122": "Publicando tu API Rest en la Nube Usando Spring Boot 3, Java 17 y Railway",
     "projects.github.p123": "Recreando la Interfaz de la PlayStation Store con Angular",
+    "projects.github.p124": "Explorando IA Generativa en un Pipeline de ETL con Python",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
