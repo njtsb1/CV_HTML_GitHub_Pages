@@ -59,10 +59,10 @@ const translations = {
     "languages.es": "Spanish",
     
     "about.title": "About",
-    "about.text": "I am a perfectionist, detail-oriented, analytical, and process-driven professional. I focus on organization, clear documentation, and practical solutions that ensure operational stability and service continuity. I prioritize quality, rigorous review, and meeting deadlines, maintaining a discreet and reliable demeanor. I adopt a methodical approach to team and project management, seeking efficiency and continuous improvement. Sometimes shy, sometimes introverted, sometimes reserved; I am 35 years old, single, without children, and I dedicate part of my time to reading and continuous study to improve my technical and management knowledge. I am seeking an opportunity where my 17 years of experience can contribute to the company's development, applying discipline, attention to detail, and commitment to the delivery of IT and administrative services.",
+    "about.text": "IT Management and Governance Specialist with a solid background in Business Administration and a focus on Operational Efficiency and GRC (Governance, Risk, and Compliance). Expertise in developing auditable processes, regulatory compliance, and large-scale digital asset management using Artificial Intelligence. Analytical and resilient profile, with a history of technical excellence (Harvard CC50) and a focus on service stability and risk mitigation.",
     
     "experience.title": "Experiences",
-    "experience.multimedia.title": "Multimedia Editor - Freelance work on Audacity",
+    "experience.multimedia.title": "Multimedia Editor and Digital Asset Manager - Freelance work on Audacity",
     "experience.multimedia.date_text": "April 2023 -",
     "experience.multimedia.date_tag": "Present",
     "experience.multimedia.p1": "Creation and editing of multimedia digital content focused on quality, creativity, and AI innovation.",
@@ -337,10 +337,10 @@ const translations = {
     "languages.es": "Espanhol",
     
     "about.title": "Sobre",
-    "about.text": "Sou perfeccionista, orientado a detalhes, analítico e com foco em processos. Priorizo organização, documentação clara e soluções práticas que garantam estabilidade operacional e continuidade de serviço. Valorizo qualidade, revisão rigorosa e cumprimento de prazos, mantendo postura discreta e confiável. Adoto abordagem metódica na gestão de equipes e projetos, buscando eficiência e melhoria contínua. Às vezes tímido, às vezes introvertido, às vezes reservado; tenho 35 anos, solteiro, sem filhos, e dedico parte do meu tempo à leitura e estudo contínuo para aprimorar conhecimentos técnicos e de gestão. Busco uma oportunidade onde meus 17 anos de experiência possam contribuir para o desenvolvimento da empresa, aplicando disciplina, atenção aos detalhes e compromisso com a entrega de serviços de TI e administrativos.",
+    "about.text": "Especialista em Gestão e Governança de TI com sólida base em Administração de Empresas e foco em Eficiência Operacional e GRC (Governança, Risco e Compliance). Expertise no desenvolvimento de processos auditáveis, conformidade normativa e gestão de ativos digitais em larga escala utilizando Inteligência Artificial. Perfil analítico e resiliente, com histórico de excelência técnica (Harvard CC50) e foco em estabilidade de serviços e mitigação de riscos.",
     
     "experience.title": "Experiências",
-    "experience.multimedia.title": "Editor Multimídia - Trabalho Freelance com Audacity",
+    "experience.multimedia.title": "Editor Multimídia e Gerente de Ativos Digitais - Trabalho Freelance com Audacity",
     "experience.multimedia.date_text": "Abril 2023 -",
     "experience.multimedia.date_tag": "Presente",
     "experience.multimedia.p1": "Criação e edição de conteúdo multimídia digital com foco em qualidade, criatividade e inovação em IA.",
@@ -615,10 +615,10 @@ const translations = {
     "languages.es": "Español",
     
     "about.title": "Acerca de",
-    "about.text": "Soy perfeccionista, orientado a los detalles, analítico y con enfoque en procesos. Me centro en la organización, documentación clara y soluciones prácticas que aseguren la estabilidad operativa y la continuidad del servicio. Priorizo la calidad, la revisión rigurosa y el cumplimiento de plazos, manteniendo una actitud discreta y confiable. Adopto un enfoque metódico en la gestión de equipos y proyectos, buscando eficiencia y mejora continua. A veces tímido, a veces introvertido, a veces reservado; tengo 35 años, soltero, sin hijos, y dedico parte de mi tiempo a la lectura y al estudio continuo para mejorar mis conocimientos técnicos y de gestión. Busco una oportunidad donde mis 17 años de experiencia puedan contribuir al desarrollo de la empresa, aplicando disciplina, atención al detalle y compromiso con la entrega de servicios de TI y administrativos.",
+    "about.text": "Especialista en gestión y gobernanza de TI con sólida formación en administración de empresas y enfoque en eficiencia operativa y GRC (Gobernanza, Riesgo y Cumplimiento). Experiencia en el desarrollo de procesos auditables, cumplimiento normativo y gestión de activos digitales a gran escala mediante inteligencia artificial. Perfil analítico y resiliente, con un historial de excelencia técnica (Harvard CC50) y enfoque en la estabilidad del servicio y la mitigación de riesgos.",
     
     "experience.title": "Experiencias",
-    "experience.multimedia.title": "Editor Multimedia - Trabajo Freelance con Audacity",
+    "experience.multimedia.title": "Editor Multimedia y Gerente de Ativos Digitales - Trabajo Freelance con Audacity",
     "experience.multimedia.date_text": "Abril 2023 -",
     "experience.multimedia.date_tag": "Presente",
     "experience.multimedia.p1": "Creación y edición de contenido multimedia digital enfocado en calidad, creatividad e innovación en IA.",
