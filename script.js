@@ -155,7 +155,7 @@ const translations = {
     "experience.cashier-bank.p10": "Compliance Multiplier: Responsible for training and onboarding new employees, disseminating the culture of safety, ethics, and the institution's GRC rules.",
     "experience.cashier-bank.p11": "Operational Excellence: Recognition for conflict resolution in high-pressure environments and customer loyalty through secure and transparent processes.",
     
-    "experience.general-services.title": "General Services - Tio Beba Supermarkets",
+    "experience.general-services.title": "Operations and Sales Assistant (Retail) - Tio Beba Supermarkets",
     "experience.general-services.date_text": "January 2009 -",
     "experience.general-services.date_tag": "March 2011",
     "experience.general-services.p1": "Extensive professional experience in administrative, commercial, and operational areas, including:",
@@ -444,7 +444,7 @@ const translations = {
     "experience.cashier-bank.p10": "Multiplicador de Compliance: Responsável pelo treinamento e onboarding de novos colaboradores, disseminando a cultura de segurança, ética e as regras de GRC da instituição.",
     "experience.cashier-bank.p11": "Excelência Operacional: Reconhecimento por resolução de conflitos em ambientes de alta pressão e fidelização de clientes por meio de processos seguros e transparentes.",
     
-    "experience.general-services.title": "Serviços Gerais - Supermercados Tio Beba",
+    "experience.general-services.title": "Assistente de Operações e Vendas (Varejo) - Supermercados Tio Beba",
     "experience.general-services.date_text": "Janeiro 2009 -",
     "experience.general-services.date_tag": "Março 2011",
     "experience.general-services.p1": "Experiência profissional extensa em áreas administrativas, comerciais e operacionais, incluindo:",
@@ -733,7 +733,7 @@ const translations = {
     "experience.cashier-bank.p10": "Multiplicador del cumplimiento: Responsable de la formación e integración de nuevos empleados, difundiendo la cultura de seguridad, ética y las normas GRC de la institución.",
     "experience.cashier-bank.p11": "Excelencia operativa: Reconocimiento por la resolución de conflictos en entornos de alta presión y la fidelización de clientes mediante procesos seguros y transparentes.",
     
-    "experience.general-services.title": "Servicios Generales - Supermercados Tio Beba",
+    "experience.general-services.title": "Asistente de Operaciones y Ventas (Comercio Minorista) - Supermercados Tio Beba",
     "experience.general-services.date_text": "Enero 2009 -",
     "experience.general-services.date_tag": "Marzo 2011",
     "experience.general-services.p1": "Amplia experiencia profesional en áreas administrativas, comerciales y operacionales, incluyendo:",
