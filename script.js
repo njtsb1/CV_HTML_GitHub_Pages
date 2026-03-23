@@ -70,7 +70,7 @@ const translations = {
     "languages.es": "Spanish",
     
     "about.title": "About",
-    "about.text": "IT Management and Governance Specialist with a solid background in Business Administration and a focus on Operational Efficiency and GRC (Governance, Risk, and Compliance). Expertise in developing auditable processes, regulatory compliance, and large-scale digital asset management using Artificial Intelligence. Analytical and resilient profile, with a history of technical excellence (Harvard CC50) and a focus on service stability and risk mitigation.",
+    "about.text": "IT Governance and Management Specialist with a solid background in Business Administration and a focus on Operational Efficiency and GRC (Governance, Risk and Compliance). Experience in developing auditable processes, regulatory compliance and large-scale digital asset management using Artificial Intelligence. Analytical and resilient profile, with a history of technical excellence (Harvard CC50) and a focus on service stability and risk mitigation. Artificial Intelligence: AI in Practice, Prompt Engineering for administrative productivity and process automation. Frameworks: ITIL Fundamentals and Balanced Scorecard (BSC)",
     
     "experience.title": "Experiences",
     "experience.multimedia.title": "Multimedia Editor and Digital Asset Manager - Freelance work on Audacity",
@@ -307,7 +307,9 @@ const translations = {
     "projects.github.p121": "Modeling the iPhone with UML: Music, Calls and Internet Functions",
     "projects.github.p122": "Publishing Your REST API in the Cloud Using Spring Boot 3, Java 17 and Railway",
     "projects.github.p123": "Recreating the PlayStation Store Interface with Angular",
-    "projects.github.p124": "Explorando IA Generativa em um Pipeline de ETL com Python",
+    "projects.github.p124": "Exploring Generative AI in an ETL Pipeline with Python",
+    "projects.github.p125": "Creating a Sales Management Report with Power BI",
+    "projects.github.p126": "Criando um Dashboard corporativo com integração com MySQL e Azure",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -359,7 +361,7 @@ const translations = {
     "languages.es": "Espanhol",
     
     "about.title": "Sobre",
-    "about.text": "Especialista em Gestão e Governança de TI com sólida base em Administração de Empresas e foco em Eficiência Operacional e GRC (Governança, Risco e Compliance). Expertise no desenvolvimento de processos auditáveis, conformidade normativa e gestão de ativos digitais em larga escala utilizando Inteligência Artificial. Perfil analítico e resiliente, com histórico de excelência técnica (Harvard CC50) e foco em estabilidade de serviços e mitigação de riscos.",
+    "about.text": "Especialista em Governança e Gestão de TI com sólida formação em Administração de Empresas e foco em Eficiência Operacional e GRC (Governança, Risco e Compliance). Experiência no desenvolvimento de processos auditáveis, conformidade regulatória e gestão de ativos digitais em larga escala utilizando Inteligência Artificial. Perfil analítico e resiliente, com histórico de excelência técnica (Harvard CC50) e foco na estabilidade do serviço e mitigação de riscos. Inteligência Artificial: IA na Prática, Prompt Engineering para produtividade administrativa e automação de processos. Frameworks: ITIL Fundamentals e Balanced Scorecard (BSC)",
     
     "experience.title": "Experiências",
     "experience.multimedia.title": "Editor Multimídia e Gerente de Ativos Digitais - Trabalho Freelance com Audacity",
@@ -597,6 +599,8 @@ const translations = {
     "projects.github.p122": "Publicando sua API Rest na Nuvem Usando Spring Boot 3, Java 17 e Railway",
     "projects.github.p123": "Recriando a Interface da PlayStation Store com Angular",
     "projects.github.p124": "Explorando IA Generativa em um Pipeline de ETL com Python",
+    "projects.github.p125": "Criando Um Relatório Gerencial de Vendas com Power BI",
+    "projects.github.p126": "Criando um Dashboard corporativo com integração com MySQL e Azure",
 
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -648,7 +652,7 @@ const translations = {
     "languages.es": "Español",
     
     "about.title": "Acerca de",
-    "about.text": "Especialista en gestión y gobernanza de TI con sólida formación en administración de empresas y enfoque en eficiencia operativa y GRC (Gobernanza, Riesgo y Cumplimiento). Experiencia en el desarrollo de procesos auditables, cumplimiento normativo y gestión de activos digitales a gran escala mediante inteligencia artificial. Perfil analítico y resiliente, con un historial de excelencia técnica (Harvard CC50) y enfoque en la estabilidad del servicio y la mitigación de riesgos.",
+    "about.text": "Especialista en Gobernanza y Gestión de TI con sólida formación en Administración de Empresas y enfoque en Eficiencia Operativa y GRC (Gobernanza, Riesgo y Cumplimiento). Experiencia en el desarrollo de procesos auditables, cumplimiento normativo y gestión de activos digitales a gran escala mediante Inteligencia Artificial. Perfil analítico y resiliente, con un historial de excelencia técnica (Harvard CC50) y enfoque en la estabilidad del servicio y la mitigación de riesgos. Inteligencia Artificial: IA en la práctica, Ingeniería Prompt para la productividad administrativa y la automatización de procesos. Marcos de trabajo: Fundamentos de ITIL y Cuadro de Mando Integral (CMI).",
     
     "experience.title": "Experiencias",
     "experience.multimedia.title": "Editor Multimedia y Gerente de Ativos Digitales - Trabajo Freelance con Audacity",
@@ -886,6 +890,8 @@ const translations = {
     "projects.github.p122": "Publicando tu API Rest en la Nube Usando Spring Boot 3, Java 17 y Railway",
     "projects.github.p123": "Recreando la Interfaz de la PlayStation Store con Angular",
     "projects.github.p124": "Explorando IA Generativa en un Pipeline de ETL con Python",
+    "projects.github.p125": "Creando Un Reporte Gerencial de Ventas con Power BI",
+    "projects.github.p126": "Creando un Dashboard corporativo con integración con MySQL y Azure",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
