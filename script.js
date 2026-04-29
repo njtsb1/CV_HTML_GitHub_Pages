@@ -315,6 +315,7 @@ const translations = {
     "projects.github.p129": "Creating Transactions, Performing Database Backup and Recovery",
     "projects.github.p130": "Analyzing data from a Sales Dashboard in Power BI",
     "projects.github.p131": "Sales Dashboard with Power BI using Star Schema",
+    "projects.github.p132": "Modeling an E-commerce Dashboard with Power BI Using DAX Formulas",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -611,6 +612,7 @@ const translations = {
     "projects.github.p129": "Criando Transações, Executando Backup e Recovery de Banco de Dados",
     "projects.github.p130": "Analisando dados de um Dashboard de Vendas no Power BI",
     "projects.github.p131": "Dashboard de Vendas com Power BI utilizando Star Schema",
+    "projects.github.p132": "Modelando um Dashboard de E-commerce com Power BI Utilizando Fórmulas DAX",
 
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -907,6 +909,7 @@ const translations = {
     "projects.github.p129": "Creación de transacciones, realización de copias de seguridad y recuperación de bases de datos",
     "projects.github.p130": "Analisando datos de un Dashboard de Vendas no Power BI",
     "projects.github.p131": "Panel de ventas con Power BI usando el esquema de estrella",
+    "projects.github.p132": "Modelado de un panel de control de comercio electrónico con Power BI mediante fórmulas DAX",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
