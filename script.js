@@ -313,6 +313,7 @@ const translations = {
     "projects.github.p127": "Customizing the Database with Indexes and Procedures",
     "projects.github.p128": "Customizing Access and Automating Actions in MySQL",
     "projects.github.p129": "Creating Transactions, Performing Database Backup and Recovery",
+    "projects.github.p130": "Analyzing data from a Sales Dashboard in Power BI",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -607,6 +608,7 @@ const translations = {
     "projects.github.p127": "Personalizando o Banco de Dados com Índices e Procedures",
     "projects.github.p128": "Personalizando acessos e automatizando ações no MySQL",
     "projects.github.p129": "Criando Transações, Executando Backup e Recovery de Banco de Dados",
+    "projects.github.p130": "Analisando dados de um Dashboard de Vendas no Power BI",
 
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -901,6 +903,7 @@ const translations = {
     "projects.github.p127": "Personalizando la Base de Datos con Índices y Procedures",
     "projects.github.p128": "Personalización del acceso y automatización de acciones en MySQL",
     "projects.github.p129": "Creación de transacciones, realización de copias de seguridad y recuperación de bases de datos",
+    "projects.github.p130": "Analisando datos de un Dashboard de Vendas no Power BI",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
