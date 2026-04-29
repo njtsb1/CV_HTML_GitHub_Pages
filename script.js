@@ -314,6 +314,7 @@ const translations = {
     "projects.github.p128": "Customizing Access and Automating Actions in MySQL",
     "projects.github.p129": "Creating Transactions, Performing Database Backup and Recovery",
     "projects.github.p130": "Analyzing data from a Sales Dashboard in Power BI",
+    "projects.github.p131": "Sales Dashboard with Power BI using Star Schema",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -609,6 +610,7 @@ const translations = {
     "projects.github.p128": "Personalizando acessos e automatizando ações no MySQL",
     "projects.github.p129": "Criando Transações, Executando Backup e Recovery de Banco de Dados",
     "projects.github.p130": "Analisando dados de um Dashboard de Vendas no Power BI",
+    "projects.github.p131": "Dashboard de Vendas com Power BI utilizando Star Schema",
 
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -904,6 +906,7 @@ const translations = {
     "projects.github.p128": "Personalización del acceso y automatización de acciones en MySQL",
     "projects.github.p129": "Creación de transacciones, realización de copias de seguridad y recuperación de bases de datos",
     "projects.github.p130": "Analisando datos de un Dashboard de Vendas no Power BI",
+    "projects.github.p131": "Panel de ventas con Power BI usando el esquema de estrella",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
