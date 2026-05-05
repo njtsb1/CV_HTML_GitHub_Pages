@@ -318,6 +318,7 @@ const translations = {
     "projects.github.p132": "Modeling an E-commerce Dashboard with Power BI Using DAX Formulas",
     "projects.github.p133": "Creating a Management Dashboard for Decision Making with Power BI",
     "projects.github.p134": "Creating a Sales and Profit Report with Data Analytics using Power BI",
+    "projects.github.p135": "Creating Dynamic Reports using Parameters in Power BI",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -617,6 +618,7 @@ const translations = {
     "projects.github.p132": "Modelando um Dashboard de E-commerce com Power BI Utilizando Fórmulas DAX",
     "projects.github.p133": "Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI",
     "projects.github.p134": "Criando um Relatório Vendas e Lucros com Data Analytics com Power BI",
+    "projects.github.p135": "Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI",
 
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -916,6 +918,7 @@ const translations = {
     "projects.github.p132": "Modelado de un panel de control de comercio electrónico con Power BI mediante fórmulas DAX",
     "projects.github.p133": "Creación de un panel de control de gestión para la toma de decisiones con Power BI",
     "projects.github.p134": "Creación de un informe de ventas y beneficios con análisis de datos mediante Power BI",
+    "projects.github.p135": "Creación de informes dinámicos mediante parámetros en Power BI",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
