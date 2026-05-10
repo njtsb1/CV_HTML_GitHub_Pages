@@ -319,6 +319,7 @@ const translations = {
     "projects.github.p133": "Creating a Management Dashboard for Decision Making with Power BI",
     "projects.github.p134": "Creating a Sales and Profit Report with Data Analytics using Power BI",
     "projects.github.p135": "Creating Dynamic Reports using Parameters in Power BI",
+    "projects.github.p136": "Creating and Using Your Cryptocurrency Wallet",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -619,6 +620,7 @@ const translations = {
     "projects.github.p133": "Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI",
     "projects.github.p134": "Criando um Relatório Vendas e Lucros com Data Analytics com Power BI",
     "projects.github.p135": "Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI",
+    "projects.github.p136": "Criando e Utilizando a Sua Carteira de Criptomoedas",
 
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -919,6 +921,7 @@ const translations = {
     "projects.github.p133": "Creación de un panel de control de gestión para la toma de decisiones con Power BI",
     "projects.github.p134": "Creación de un informe de ventas y beneficios con análisis de datos mediante Power BI",
     "projects.github.p135": "Creación de informes dinámicos mediante parámetros en Power BI",
+    "projects.github.p136": "Creación y uso de su billetera de criptomonedas",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
