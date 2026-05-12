@@ -321,6 +321,7 @@ const translations = {
     "projects.github.p135": "Creating Dynamic Reports using Parameters in Power BI",
     "projects.github.p136": "Creating and Using Your Cryptocurrency Wallet",
     "projects.github.p137": "Creating Your First Cryptocurrency on the Ethereum Network",
+    "projects.github.p138": "Create your own Pokémon NFT with Blockchain.",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -623,6 +624,7 @@ const translations = {
     "projects.github.p135": "Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI",
     "projects.github.p136": "Criando e Utilizando a Sua Carteira de Criptomoedas",
     "projects.github.p137": "Criando a Sua Primeira Criptomoeda da Rede Ethereum",
+    "projects.github.p138": "Crie o seu NFT de Pokémon com Blockchain",
 
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -925,6 +927,7 @@ const translations = {
     "projects.github.p135": "Creación de informes dinámicos mediante parámetros en Power BI",
     "projects.github.p136": "Creación y uso de su billetera de criptomonedas",
     "projects.github.p137": "Cómo crear tu primera criptomoneda en la red Ethereum",
+    "projects.github.p138": "Crea tu propio NFT de Pokémon con Blockchain",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
