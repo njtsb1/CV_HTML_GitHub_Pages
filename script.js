@@ -81,7 +81,7 @@ const translations = {
     "experience.multimedia.p3": "Data Governance: Management and organization of a cloud repository with over 8,000 digital assets, ensuring integrity and versioning.",
     "experience.multimedia.p4": "Institutional Standardization: Creation of protocols for subtitling, translation, and audio normalization, ensuring a cohesive visual and sound identity.",
     "experience.multimedia.p5": "Linguistic Compliance: Supervision and technical review of AI-assisted subtitles and translations (PT-BR, EN-US, ES-ES), ensuring communication accuracy.",
-    "experience.multimedia.p6": "Operational Efficiency: Implementation of dynamic editing methodologies that resulted in the delivery of over 7,500 audio files and 550 videos with a high standard of finish.",
+    "experience.multimedia.p6": "Operational Efficiency: Implementation of dynamic editing methodologies that resulted in the delivery of over 8,000 audio files and 550 videos with a high standard of finish.",
     
     "experience.sports-trader.title": "Risk Analyst and Market Intelligence - Freelance work on Betfair",
     "experience.sports-trader.date_text": "March 2021 -",
@@ -384,7 +384,7 @@ const translations = {
     "experience.multimedia.p3": "Governança de Dados: Gerenciamento e organização de um repositório em nuvem com mais de 8.000 ativos digitais, garantindo integridade e versionamento.",
     "experience.multimedia.p4": "Padronização Institucional: Criação de protocolos para legendagem, tradução e normalização de áudio, garantindo uma identidade visual e sonora coesa.",
     "experience.multimedia.p5": "Conformidade Linguística: Supervisão e revisão técnica de legendas e traduções assistidas por IA (PT-BR, EN-US, ES-ES), garantindo a precisão da comunicação.",    
-    "experience.multimedia.p6": "Eficiência Operacional: Implementação de metodologias de edição dinâmicas que resultaram na entrega de mais de 7.500 arquivos de áudio e 550 vídeos com alto padrão de acabamento.",
+    "experience.multimedia.p6": "Eficiência Operacional: Implementação de metodologias de edição dinâmicas que resultaram na entrega de mais de 8.000 arquivos de áudio e 550 vídeos com alto padrão de acabamento.",
     
     "experience.sports-trader.title": "Analista de Risco e Inteligência de Mercado - Trabalho Freelance na Betfair",
     "experience.sports-trader.date_text": "Março 2021 -",
@@ -687,7 +687,7 @@ const translations = {
     "experience.multimedia.p3": "Imagen: diseño de portada, edición profesional y ajustes de píxeles.",
     "experience.multimedia.p4": "Audio: conversión, cortes y ajustes, efectos de sonido, reverb, normalización y ecualización.",
     "experience.multimedia.p5": "Video: edición dinámica, edición de escenas, ajustes de audio, subtítulos y traducciones asistidas por IA.",
-    "experience.multimedia.p6": "Resultados: +7.500 archivos de audio editados y guardados en la nube; +550 videos publicados con subtítulos y traducciones en Portugués, Inglés y Español.",
+    "experience.multimedia.p6": "Resultados: +8.000 archivos de audio editados y guardados en la nube; +550 videos publicados con subtítulos y traducciones en Portugués, Inglés y Español.",
     
     "experience.sports-trader.title": "Analista de Riesgo y Inteligencia de Mercado - Trabajo Freelance en Betfair",
     "experience.sports-trader.date_text": "Marzo 2021 -",
