@@ -324,6 +324,7 @@ const translations = {
     "projects.github.p138": "Create your own Pokémon NFT with Blockchain.",
     "projects.github.p139": "Creating Your First Token from Scratch with Web3 Standards",
     "projects.github.p140": "Creating an NFT in Practice",
+    "projects.github.p141": "Creating a Decentralized Autonomous Organization using Web3 Standards",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -629,6 +630,7 @@ const translations = {
     "projects.github.p138": "Crie o seu NFT de Pokémon com Blockchain",
     "projects.github.p139": "Criando o Seu Primeiro Token do Zero nos Padrões Web3",
     "projects.github.p140": "Criando um NFT na Prática",
+    "projects.github.p141": "Criando uma Organização Autônoma Descentralizada nos Padrões Web3",
 
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -934,6 +936,7 @@ const translations = {
     "projects.github.p138": "Crea tu propio NFT de Pokémon con Blockchain",
     "projects.github.p139": "Creación de tu primer token desde cero utilizando los estándares Web3",
     "projects.github.p140": "Creación de un NFT en la práctica",
+    "projects.github.p141": "Creación de una organización autónoma descentralizada utilizando los estándares Web3",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
