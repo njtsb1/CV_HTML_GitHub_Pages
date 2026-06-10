@@ -325,6 +325,7 @@ const translations = {
     "projects.github.p139": "Creating Your First Token from Scratch with Web3 Standards",
     "projects.github.p140": "Creating an NFT in Practice",
     "projects.github.p141": "Creating a Decentralized Autonomous Organization using Web3 Standards",
+    "projects.github.p142": "Recreating Wikipedia with a Modern Layout",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -631,6 +632,7 @@ const translations = {
     "projects.github.p139": "Criando o Seu Primeiro Token do Zero nos Padrões Web3",
     "projects.github.p140": "Criando um NFT na Prática",
     "projects.github.p141": "Criando uma Organização Autônoma Descentralizada nos Padrões Web3",
+    "projects.github.p142": "Recriando o Wikipedia com Layout Moderno",
 
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -937,6 +939,7 @@ const translations = {
     "projects.github.p139": "Creación de tu primer token desde cero utilizando los estándares Web3",
     "projects.github.p140": "Creación de un NFT en la práctica",
     "projects.github.p141": "Creación de una organización autónoma descentralizada utilizando los estándares Web3",
+    "projects.github.p142": "Recreando Wikipedia con un diseño moderno",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
