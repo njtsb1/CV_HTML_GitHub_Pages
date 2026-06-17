@@ -327,6 +327,7 @@ const translations = {
     "projects.github.p141": "Creating a Decentralized Autonomous Organization using Web3 Standards",
     "projects.github.p142": "Recreating Wikipedia with a Modern Layout",
     "projects.github.p143": "Cloning a YouTube Page with CSS",
+    "projects.github.p144": "Reproducing a YouTube listing with Grid Layout in CSS",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -635,6 +636,7 @@ const translations = {
     "projects.github.p141": "Criando uma Organização Autônoma Descentralizada nos Padrões Web3",
     "projects.github.p142": "Recriando o Wikipedia com Layout Moderno",
     "projects.github.p143": "Clonando a Página do Youtube com CSS",
+    "projects.github.p144": "Reproduzindo a Listagem do YouTube com Grid Layout no CSS",
 
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -943,6 +945,7 @@ const translations = {
     "projects.github.p141": "Creación de una organización autónoma descentralizada utilizando los estándares Web3",
     "projects.github.p142": "Recreando Wikipedia con un diseño moderno",
     "projects.github.p143": "Clonar una página de YouTube con CSS",
+    "projects.github.p144": "Reproducción de un listado de YouTube con diseño de cuadrícula en CSS",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
