@@ -329,6 +329,7 @@ const translations = {
     "projects.github.p143": "Cloning a YouTube Page with CSS",
     "projects.github.p144": "Reproducing a YouTube listing with Grid Layout in CSS",
     "projects.github.p145": "Building a Responsive Layout for the Discord Website Using CSS",
+    "projects.github.p146": "Cloning the HBO Max Website with HTML and CSS Animations",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -639,6 +640,7 @@ const translations = {
     "projects.github.p143": "Clonando a Página do Youtube com CSS",
     "projects.github.p144": "Reproduzindo a Listagem do YouTube com Grid Layout no CSS",
     "projects.github.p145": "Construindo um Layout Responsivo Para o Site do Discord Com CSS",
+    "projects.github.p146": "Clonando o Site da HBO Max com Animações em HTML e CSS",
 
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -949,6 +951,7 @@ const translations = {
     "projects.github.p143": "Clonar una página de YouTube con CSS",
     "projects.github.p144": "Reproducción de un listado de YouTube con diseño de cuadrícula en CSS",
     "projects.github.p145": "Creación de un diseño adaptable para el sitio web de Discord usando CSS",
+    "projects.github.p146": "Clonando el sitio web de HBO Max con animaciones HTML y CSS",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
