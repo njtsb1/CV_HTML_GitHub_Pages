@@ -331,6 +331,7 @@ const translations = {
     "projects.github.p145": "Building a Responsive Layout for the Discord Website Using CSS",
     "projects.github.p146": "Cloning the HBO Max Website with HTML and CSS Animations",
     "projects.github.p147": "Publishing Your Professional Portfolio on GitHub Pages",
+    "projects.github.p148": "Creating Your Personal Blog with Next.js",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -643,6 +644,7 @@ const translations = {
     "projects.github.p145": "Construindo um Layout Responsivo Para o Site do Discord Com CSS",
     "projects.github.p146": "Clonando o Site da HBO Max com Animações em HTML e CSS",
     "projects.github.p147": "Publicando Seu Portfólio Profissional no GitHub Pages",
+    "projects.github.p148": "Criando o Seu Blog Pessoal Com Next.js",
 
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -955,6 +957,7 @@ const translations = {
     "projects.github.p145": "Creación de un diseño adaptable para el sitio web de Discord usando CSS",
     "projects.github.p146": "Clonando el sitio web de HBO Max con animaciones HTML y CSS",
     "projects.github.p147": "Publica tu portafolio profesional en GitHub Pages",
+    "projects.github.p148": "Creación de tu blog personal con Next.js",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
