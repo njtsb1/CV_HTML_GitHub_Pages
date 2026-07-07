@@ -332,6 +332,7 @@ const translations = {
     "projects.github.p146": "Cloning the HBO Max Website with HTML and CSS Animations",
     "projects.github.p147": "Publishing Your Professional Portfolio on GitHub Pages",
     "projects.github.p148": "Creating Your Personal Blog with Next.js",
+    "projects.github.p149": "Creating an ID Card for the Minecraft Creeper Using Lua",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -645,6 +646,7 @@ const translations = {
     "projects.github.p146": "Clonando o Site da HBO Max com Animações em HTML e CSS",
     "projects.github.p147": "Publicando Seu Portfólio Profissional no GitHub Pages",
     "projects.github.p148": "Criando o Seu Blog Pessoal Com Next.js",
+    "projects.github.p149": "Criando um RG pro Creeper do Minecraft com a Linguagem Lua",
 
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -958,6 +960,7 @@ const translations = {
     "projects.github.p146": "Clonando el sitio web de HBO Max con animaciones HTML y CSS",
     "projects.github.p147": "Publica tu portafolio profesional en GitHub Pages",
     "projects.github.p148": "Creación de tu blog personal con Next.js",
+    "projects.github.p149": "Creación de una tarjeta de identificación para el Creeper de Minecraft usando Lua",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
