@@ -333,6 +333,7 @@ const translations = {
     "projects.github.p147": "Publishing Your Professional Portfolio on GitHub Pages",
     "projects.github.p148": "Creating Your Personal Blog with Next.js",
     "projects.github.p149": "Creating an ID Card for the Minecraft Creeper Using Lua",
+    "projects.github.p150": "Building a Battle Simulator with Lua",
     
     "footer.social": "My Social Networks",
     "footer.powered": "Powered by w3.css"
@@ -647,6 +648,7 @@ const translations = {
     "projects.github.p147": "Publicando Seu Portfólio Profissional no GitHub Pages",
     "projects.github.p148": "Criando o Seu Blog Pessoal Com Next.js",
     "projects.github.p149": "Criando um RG pro Creeper do Minecraft com a Linguagem Lua",
+    "projects.github.p150": "Construindo um Simulador de Batalhas com Lua",
 
     "footer.social": "Minhas Redes Sociais",
     "footer.powered": "Desenvolvido com w3.css"
@@ -961,6 +963,7 @@ const translations = {
     "projects.github.p147": "Publica tu portafolio profesional en GitHub Pages",
     "projects.github.p148": "Creación de tu blog personal con Next.js",
     "projects.github.p149": "Creación de una tarjeta de identificación para el Creeper de Minecraft usando Lua",
+    "projects.github.p150": "Creación de un simulador de batallas con Lua",
     
     "footer.social": "Mis Redes Sociales",
     "footer.powered": "Desarrollado con w3.css"
