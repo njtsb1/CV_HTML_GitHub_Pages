@@ -357,6 +357,7 @@
       "projects.github.p148": "Creating Your Personal Blog with Next.js",
       "projects.github.p149": "Creating an RG for the Minecraft Creeper with Lua",
       "projects.github.p150": "Building a Moon Battle Simulator with Lua",
+      "projects.github.p151": "Creating an Adventure Simulator with Lua",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -675,6 +676,7 @@
       "projects.github.p148": "Criando Blog Pessoal com Next.js",
       "projects.github.p149": "Criando RG para Creeper do Minecraft com Lua",
       "projects.github.p150": "Construindo Simulador de Batalhas com Lua",
+      "projects.github.p151": "Criando um Simulador de Aventuras com Lua",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -893,6 +895,7 @@
       "projects.github.p148": "Creando tu blog personal con Next.js",
       "projects.github.p149": "Creando un RG para el Creeper de Minecraft con Lua",
       "projects.github.p150": "Construyendo un simulador de batallas lunares con Lua",
+      "projects.github.p151": "Creación de un simulador de aventuras con Lua",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
