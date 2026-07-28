@@ -1,9 +1,3 @@
-// script.js - Theme toggle + complete i18n for en-US, pt-BR, es-ES
-// Place this file at /docs/src/script.js and ensure your HTML has:
-// - <select id="language-select"> with options en-US, pt-BR, es-ES
-// - elements annotated with data-i18n="key" (and optional data-i18n-attr="placeholder:title:alt")
-// - theme toggle elements with ids: page-body, theme-toggle, theme-icon
-
 (function () {
   'use strict';
 
@@ -45,7 +39,7 @@
     "en-US": {
       "meta.title": "Nivaldo Beirão - Online CV",
       "name": "Nivaldo José Tadeu dos Santos Beirão",
-      "role": "IT Governance Specialist | GRC & Compliance | Administrative Processes | Strategic Technical Support | Moodle Management Specialist",
+      "role": "IT GOVERNANCE ANALYST | GRC (GOVERNANCE, RISK & COMPLIANCE) | BUSINESS PROCESS SPECIALIST | LMS MOODLE | TIER 1-3 SUPPORT",
       "location": "Remote / Brazil (GMT-3)",
 
       // Hard Skills
@@ -94,7 +88,7 @@
 
       // Experiences (sample keys)
       "experience.title": "Experiences",
-      "experience.multimedia.title": "Multimedia Editor and Digital Asset Manager - Freelance work on Audacity",
+      "experience.multimedia.title": "Multimedia Editor and Digital Asset Manager - Freelance work on YouTube",
       "experience.multimedia.date_text": "April 2023 -",
       "experience.multimedia.date_tag": "Present",
       "experience.multimedia.p1": "Digital Process Management and Production at Scale.",
@@ -359,6 +353,7 @@
       "projects.github.p150": "Building a Moon Battle Simulator with Lua",
       "projects.github.p151": "Creating an Adventure Simulator with Lua",
       "projects.github.p152": "Creating the Harvest Game with Roblox",
+      "projects.github.p153": "Create an experience on Roblox",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -371,7 +366,7 @@
     "pt-BR": {
       "meta.title": "Nivaldo Beirão - Online CV",
       "name": "Nivaldo José Tadeu dos Santos Beirão",
-      "role": "Especialista em Governança de TI | GRC & Compliance | Processos Administrativos | Suporte Técnico Estratégico | Especialista em Gestão Moodle",
+      "role": "ANALISTA DE GOVERNANÇA DE TI | GRC (GOVERNANÇA, RISCOS & COMPLIANCE) | PROCESSOS ADMINISTRATIVOS | MOODLE (AVA) | SUPORTE N1 AO N3",
       "location": "Remoto / Brasil (GMT-3)",
 
       "skills.Hard-title": "Hard Skills",
@@ -415,7 +410,7 @@
       "about.text": "Especialista em Governança e Gestão de TI com sólida formação em Administração de Empresas e foco em Eficiência Operacional e GRC (Governança, Risco e Conformidade). Experiência em desenvolvimento de processos auditáveis, conformidade regulatória e gestão de ativos digitais em larga escala utilizando Inteligência Artificial. Perfil analítico e resiliente, com histórico de excelência técnica (Harvard CC50) e foco em estabilidade de serviço e mitigação de riscos. Inteligência Artificial: IA na Prática, Prompt Engineering para produtividade administrativa e automação de processos. Frameworks: ITIL Fundamentals e Balanced Scorecard (BSC)",
 
       "experience.title": "Experiências",
-      "experience.multimedia.title": "Editor Multimídia e Gerente de Ativos Digitais - Trabalho Freelance no Audacity",
+      "experience.multimedia.title": "Editor Multimídia e Gerente de Ativos Digitais - Trabalho Freelance no YouTube",
       "experience.multimedia.date_text": "Abril 2023 -",
       "experience.multimedia.date_tag": "Presente",
       "experience.multimedia.p1": "Gestão de Processos Digitais e Produção em Escala.",
@@ -679,6 +674,7 @@
       "projects.github.p150": "Construindo Simulador de Batalhas com Lua",
       "projects.github.p151": "Criando um Simulador de Aventuras com Lua",
       "projects.github.p152": "Criando o Jogo da Colheita com Roblox",
+      "projects.github.p153": "Crie uma experiência no Roblox",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -690,7 +686,7 @@
     "es-ES": {
       "meta.title": "Nivaldo Beirão - CV Online",
       "name": "Nivaldo José Tadeu dos Santos Beirão",
-      "role": "Especialista en Gobernanza de TI | GRC & Cumplimiento | Procesos Administrativos | Soporte Técnico Estratégico | Especialista en Gestión Moodle",
+      "role": "Analista de Gobierno de TI | GRC (Gobierno, Riesgo y Cumplimiento) | Procesos administrativos | Moodle (LMS) | Soporte de niveles 1 a 3",
       "location": "Remoto / Brasil (GMT-3)",
 
       "skills.Hard-title": "Habilidades Técnicas",
@@ -734,7 +730,7 @@
       "about.text": "Especialista en Gobernanza y Gestión de TI con sólida formación en Administración de Empresas y enfoque en Eficiencia Operativa y GRC (Gobernanza, Riesgo y Cumplimiento). Experiencia en desarrollar procesos auditables, cumplimiento regulatorio y gestión de activos digitales a gran escala usando Inteligencia Artificial. Perfil analítico y resiliente, con historial de excelencia técnica (Harvard CC50) y enfoque en estabilidad del servicio y mitigación de riesgos. Inteligencia Artificial: IA en la Práctica, Prompt Engineering para productividad administrativa y automatización de procesos. Frameworks: ITIL Fundamentals y Balanced Scorecard (BSC)",
 
       "experience.title": "Experiencias",
-      "experience.multimedia.title": "Editor Multimedia y Gestor de Activos Digitales - Freelance en Audacity",
+      "experience.multimedia.title": "Editor Multimedia y Gestor de Activos Digitales - Freelance en YouTube",
       "experience.multimedia.date_text": "Abril 2023 -",
       "experience.multimedia.date_tag": "Presente",
       "experience.multimedia.p1": "Gestión de Procesos Digitales y Producción a Escala.",
@@ -899,6 +895,7 @@
       "projects.github.p150": "Construyendo un simulador de batallas lunares con Lua",
       "projects.github.p151": "Creación de un simulador de aventuras con Lua",
       "projects.github.p152": "Creación del juego Harvest con Roblox",
+      "projects.github.p153": "Crea una experiencia en Roblox",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
