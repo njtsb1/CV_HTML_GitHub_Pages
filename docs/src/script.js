@@ -355,6 +355,7 @@
       "projects.github.p152": "Creating the Harvest Game with Roblox",
       "projects.github.p153": "Create an experience on Roblox",
       "projects.github.p154": "Creating an Obstacle Course Game in Roblox",
+      "projects.github.p155": "Creating a Monetized Multiplatform Game on Roblox",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -677,6 +678,7 @@
       "projects.github.p152": "Criando o Jogo da Colheita com Roblox",
       "projects.github.p153": "Crie uma experiência no Roblox",
       "projects.github.p154": "Criando um Jogo de Obstáculos no Roblox",
+      "projects.github.p155": "Criando um Jogo Multiplataforma Monetizado no Roblox",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -899,6 +901,7 @@
       "projects.github.p152": "Creación del juego Harvest con Roblox",
       "projects.github.p153": "Crea una experiencia en Roblox",
       "projects.github.p154": "Crear un juego de carrera de obstáculos en Roblox",
+      "projects.github.p155": "Creando de un juego multiplataforma monetizado en Roblox",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
