@@ -356,6 +356,7 @@
       "projects.github.p153": "Create an experience on Roblox",
       "projects.github.p154": "Creating an Obstacle Course Game in Roblox",
       "projects.github.p155": "Creating a Monetized Multiplatform Game on Roblox",
+      "projects.github.p156": "Creating a Utility Library",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -679,6 +680,7 @@
       "projects.github.p153": "Crie uma experiência no Roblox",
       "projects.github.p154": "Criando um Jogo de Obstáculos no Roblox",
       "projects.github.p155": "Criando um Jogo Multiplataforma Monetizado no Roblox",
+      "projects.github.p156": "Criando uma Biblioteca de Utilidades",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -740,7 +742,7 @@
       "experience.multimedia.p1": "Gestión de Procesos Digitales y Producción a Escala.",
       "experience.multimedia.p2": "Responsable de estructurar el flujo de trabajo y la entrega técnica de activos digitales, asegurando 100% de cumplimiento con estándares de calidad y plazos. Uso estratégico de IA para optimizar procesos de traducción y edición.",
       "experience.multimedia.p3": "Gobernanza de Datos: Gestión y organización de un repositorio en la nube con más de 8.000 activos digitales, asegurando integridad y versionado.",
-      "experience.multimedia.p4": "Estandarización Institucional: Creación de protocolos para subtitulado, traducción y normalización de audio, asegurando identidad visual y sonora coherente.",
+      "experience.multimedia.p4": "Estandarización Institucional: Creando de protocolos para subtitulado, traducción y normalización de audio, asegurando identidad visual y sonora coherente.",
       "experience.multimedia.p5": "Cumplimiento Lingüístico: Supervisión y revisión técnica de subtítulos y traducciones asistidas por IA (PT-BR, EN-US, ES-ES), asegurando precisión en la comunicación.",
       "experience.multimedia.p6": "Eficiencia Operativa: Implementación de metodologías de edición dinámicas que resultaron en la entrega de más de 8.000 archivos de audio y 550 videos con alto estándar de acabado.",
 
@@ -844,7 +846,7 @@
       "projects.github.p95": "Recreando el famoso juego del dinosaurio sin internet",
       "projects.github.p96": "Creando un ecosistema Hadoop totalmente gestionado con Google Cloud Dataproc",
       "projects.github.p97": "MySql - Cómo modelar una base de datos de control de series vistas",
-      "projects.github.p98": "Simplificando la creación de paquetes de procesamiento de imágenes en Python",
+      "projects.github.p98": "Simplificando la Creando de paquetes de procesamiento de imágenes en Python",
       "projects.github.p99": "Construyendo un acortador de URL",
       "projects.github.p100": "Creando un front-end totalmente componentizado con ReactJS",
       "projects.github.p101": "Creando tu juego de memoria estilo Genius",
@@ -897,11 +899,12 @@
       "projects.github.p148": "Creando tu blog personal con Next.js",
       "projects.github.p149": "Creando un RG para el Creeper de Minecraft con Lua",
       "projects.github.p150": "Construyendo un simulador de batallas lunares con Lua",
-      "projects.github.p151": "Creación de un simulador de aventuras con Lua",
-      "projects.github.p152": "Creación del juego Harvest con Roblox",
+      "projects.github.p151": "Creando de un simulador de aventuras con Lua",
+      "projects.github.p152": "Creando del juego Harvest con Roblox",
       "projects.github.p153": "Crea una experiencia en Roblox",
       "projects.github.p154": "Crear un juego de carrera de obstáculos en Roblox",
       "projects.github.p155": "Creando de un juego multiplataforma monetizado en Roblox",
+      "projects.github.p156": "Creando de una biblioteca de utilidades",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
