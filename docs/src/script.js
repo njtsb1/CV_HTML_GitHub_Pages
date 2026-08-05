@@ -357,6 +357,7 @@
       "projects.github.p154": "Creating an Obstacle Course Game in Roblox",
       "projects.github.p155": "Creating a Monetized Multiplatform Game on Roblox",
       "projects.github.p156": "Creating a Utility Library",
+      "projects.github.p157": "Hands-on: Creating a Survival Game in Roblox",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -681,6 +682,7 @@
       "projects.github.p154": "Criando um Jogo de Obstáculos no Roblox",
       "projects.github.p155": "Criando um Jogo Multiplataforma Monetizado no Roblox",
       "projects.github.p156": "Criando uma Biblioteca de Utilidades",
+      "projects.github.p157": "Hands-on: Criando um Jogo de Sobrevivência no Roblox",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -905,6 +907,7 @@
       "projects.github.p154": "Crear un juego de carrera de obstáculos en Roblox",
       "projects.github.p155": "Creando de un juego multiplataforma monetizado en Roblox",
       "projects.github.p156": "Creando de una biblioteca de utilidades",
+      "projects.github.p157": "Práctica: Creando un juego de supervivencia en Roblox",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
