@@ -359,6 +359,7 @@
       "projects.github.p156": "Creating a Utility Library",
       "projects.github.p157": "Hands-on: Creating a Survival Game in Roblox",
       "projects.github.p158": "Image Dimensionality Reduction for Neural Networks",
+      "projects.github.p159": "Calculation of Learning Assessment Metrics",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -685,6 +686,7 @@
       "projects.github.p156": "Criando uma Biblioteca de Utilidades",
       "projects.github.p157": "Hands-on: Criando um Jogo de Sobrevivência no Roblox",
       "projects.github.p158": "Redução de Dimensionalidade em Imagens para Redes Neurais",
+      "projects.github.p159": "Cálculo de Métricas de Avaliação de Aprendizado",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -911,6 +913,7 @@
       "projects.github.p156": "Creando de una biblioteca de utilidades",
       "projects.github.p157": "Práctica: Creando un juego de supervivencia en Roblox",
       "projects.github.p158": "Reducción de dimensionalidad de imágenes para redes neuronales",
+      "projects.github.p159": "Cálculo de métricas de evaluación del aprendizaje",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
