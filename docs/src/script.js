@@ -358,6 +358,7 @@
       "projects.github.p155": "Creating a Monetized Multiplatform Game on Roblox",
       "projects.github.p156": "Creating a Utility Library",
       "projects.github.p157": "Hands-on: Creating a Survival Game in Roblox",
+      "projects.github.p158": "Image Dimensionality Reduction for Neural Networks",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -683,6 +684,7 @@
       "projects.github.p155": "Criando um Jogo Multiplataforma Monetizado no Roblox",
       "projects.github.p156": "Criando uma Biblioteca de Utilidades",
       "projects.github.p157": "Hands-on: Criando um Jogo de Sobrevivência no Roblox",
+      "projects.github.p158": "Redução de Dimensionalidade em Imagens para Redes Neurais",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -908,6 +910,7 @@
       "projects.github.p155": "Creando de un juego multiplataforma monetizado en Roblox",
       "projects.github.p156": "Creando de una biblioteca de utilidades",
       "projects.github.p157": "Práctica: Creando un juego de supervivencia en Roblox",
+      "projects.github.p158": "Reducción de dimensionalidad de imágenes para redes neuronales",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
