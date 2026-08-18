@@ -360,6 +360,7 @@
       "projects.github.p157": "Hands-on: Creating a Survival Game in Roblox",
       "projects.github.p158": "Image Dimensionality Reduction for Neural Networks",
       "projects.github.p159": "Calculation of Learning Assessment Metrics",
+      "projects.github.p160": "Creation of a Dataset and Training of the YOLO Network",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -687,6 +688,7 @@
       "projects.github.p157": "Hands-on: Criando um Jogo de Sobrevivência no Roblox",
       "projects.github.p158": "Redução de Dimensionalidade em Imagens para Redes Neurais",
       "projects.github.p159": "Cálculo de Métricas de Avaliação de Aprendizado",
+      "projects.github.p160": "Criação de Uma Base de Dados e Treinamento da Rede YOLO",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -914,6 +916,7 @@
       "projects.github.p157": "Práctica: Creando un juego de supervivencia en Roblox",
       "projects.github.p158": "Reducción de dimensionalidad de imágenes para redes neuronales",
       "projects.github.p159": "Cálculo de métricas de evaluación del aprendizaje",
+      "projects.github.p160": "Creación de un conjunto de datos y entrenamiento de la red YOLO",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
