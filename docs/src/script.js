@@ -362,6 +362,7 @@
       "projects.github.p159": "Calculation of Learning Assessment Metrics",
       "projects.github.p160": "Creation of a Dataset and Training of the YOLO Network",
       "projects.github.p161": "Building a Facial Recognition System from Scratch",
+      "projects.github.p162": "Creating a Digital Image Recommendation System",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -691,6 +692,7 @@
       "projects.github.p159": "Cálculo de Métricas de Avaliação de Aprendizado",
       "projects.github.p160": "Criação de Uma Base de Dados e Treinamento da Rede YOLO",
       "projects.github.p161": "Criando um Sistema de Reconhecimento Facial do Zero",
+      "projects.github.p162": "Criando um Sistema de Recomendação por Imagens Digitais",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -920,6 +922,7 @@
       "projects.github.p159": "Cálculo de métricas de evaluación del aprendizaje",
       "projects.github.p160": "Creando de un conjunto de datos y entrenamiento de la red YOLO",
       "projects.github.p161": "Creando de un sistema de reconocimiento facial desde cero",
+      "projects.github.p162": "Creando de un sistema de recomendación basado en imágenes digitales",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
