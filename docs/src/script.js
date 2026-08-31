@@ -364,6 +364,8 @@
       "projects.github.p161": "Building a Facial Recognition System from Scratch",
       "projects.github.p162": "Creating a Digital Image Recommendation System",
       "projects.github.p163": "Building a virtual assistance system from scratch",
+      "projects.github.p164": "Uploading Your Flutter Project to GitHub",
+      "projects.github.p165": "Creating a BMI Calculator with Flutter",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -695,6 +697,8 @@
       "projects.github.p161": "Criando um Sistema de Reconhecimento Facial do Zero",
       "projects.github.p162": "Criando um Sistema de Recomendação por Imagens Digitais",
       "projects.github.p163": "Criando um sistema de assistência virtual do zero",
+      "projects.github.p164": "Subindo o Seu Projeto Flutter no GitHub",
+      "projects.github.p165": "Criando uma Calculadora de IMC Com Flutter",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -926,6 +930,8 @@
       "projects.github.p161": "Creando de un sistema de reconocimiento facial desde cero",
       "projects.github.p162": "Creando de un sistema de recomendación basado en imágenes digitales",
       "projects.github.p163": "Creando de un sistema de asistencia virtual desde cero",
+      "projects.github.p164": "Subiendo tu proyecto Flutter a GitHub",
+      "projects.github.p165": "Creando una calculadora de IMC con Flutter",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
