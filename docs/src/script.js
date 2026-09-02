@@ -198,7 +198,7 @@
       "education.univr.bachelor.title": "Bachelor's Degree in Business Administration",
       "education.univr.bachelor.text": "Solid background in organizational management, administrative processes, applied law, and finance. Focus on developing a systemic vision and process analysis for operational efficiency.",
 
-      // Projects (p1 - p150)
+      // Projects (p1 - p199)
       "projects.title": "Projects",
       "projects.github": "GitHub",
       "projects.github.p1": "Creating a Canvas Type Application with Power Platform",
@@ -366,6 +366,7 @@
       "projects.github.p163": "Building a virtual assistance system from scratch",
       "projects.github.p164": "Uploading Your Flutter Project to GitHub",
       "projects.github.p165": "Creating a BMI Calculator with Flutter",
+      "projects.github.p166": "Enhancing Your BMI Calculator with Flutter",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -699,6 +700,7 @@
       "projects.github.p163": "Criando um sistema de assistência virtual do zero",
       "projects.github.p164": "Subindo o Seu Projeto Flutter no GitHub",
       "projects.github.p165": "Criando uma Calculadora de IMC Com Flutter",
+      "projects.github.p166": "Aprimorando a sua Calculadora de IMC com Flutter",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -932,6 +934,7 @@
       "projects.github.p163": "Creando de un sistema de asistencia virtual desde cero",
       "projects.github.p164": "Subiendo tu proyecto Flutter a GitHub",
       "projects.github.p165": "Creando una calculadora de IMC con Flutter",
+      "projects.github.p166": "Mejorando tu calculadora de IMC con Flutter",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
