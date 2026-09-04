@@ -367,6 +367,7 @@
       "projects.github.p164": "Uploading Your Flutter Project to GitHub",
       "projects.github.p165": "Creating a BMI Calculator with Flutter",
       "projects.github.p166": "Enhancing Your BMI Calculator with Flutter",
+      "projects.github.p167": "Storing BMI Data and Persisting It Locally",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -701,6 +702,7 @@
       "projects.github.p164": "Subindo o Seu Projeto Flutter no GitHub",
       "projects.github.p165": "Criando uma Calculadora de IMC Com Flutter",
       "projects.github.p166": "Aprimorando a sua Calculadora de IMC com Flutter",
+      "projects.github.p167": "Armazenando os Dados do IMC e Persistindo Localmente",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -935,6 +937,7 @@
       "projects.github.p164": "Subiendo tu proyecto Flutter a GitHub",
       "projects.github.p165": "Creando una calculadora de IMC con Flutter",
       "projects.github.p166": "Mejorando tu calculadora de IMC con Flutter",
+      "projects.github.p167": "Almacenamiento de los datos del IMC y persistencia local",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
