@@ -718,7 +718,7 @@
     "es-ES": {
       "meta.title": "Nivaldo Beirão - CV Online",
       "name": "Nivaldo José Tadeu dos Santos Beirão",
-      "role": "Analista de Gobierno de TI | GRC (Gobierno, Riesgo y Cumplimiento) | Procesos administrativos | Moodle (LMS) | Soporte de niveles 1 a 3",
+      "role": "Gestión y Gobernanza de TI | Procesos Administrativos | GRC | Moodle LMS | Soporte Técnico",
       "location": "Remoto / Brasil (GMT-3)",
 
       "skills.Hard-title": "Habilidades Técnicas",
