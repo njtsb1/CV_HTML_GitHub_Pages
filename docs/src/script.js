@@ -370,6 +370,7 @@
       "projects.github.p167": "Storing BMI Data and Persisting It Locally",
       "projects.github.p168": "Creating a Flutter App from Scratch to Consume the ViaCEP API",
       "projects.github.p169": "Creating a Flutter Contact List App",
+      "projects.github.p170": "Creating an Android App with Multi-Language Support",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -707,6 +708,7 @@
       "projects.github.p167": "Armazenando os Dados do IMC e Persistindo Localmente",
       "projects.github.p168": "Criando um App Flutter do Zero Para o Consumo da API do ViaCEP",
       "projects.github.p169": "Criando um App Flutter de Lista de Contatos",
+      "projects.github.p170": "Criando um App Android com Suporte a Vários Idiomas",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -944,6 +946,7 @@
       "projects.github.p167": "Almacenamiento de los datos del IMC y persistencia local",
       "projects.github.p168": "Creando de una aplicación Flutter desde cero para consumir la API de ViaCEP",
       "projects.github.p169": "Creando una aplicación Flutter de lista de contactos",
+      "projects.github.p170": "Creando una aplicación Android con soporte para múltiples idiomas",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
