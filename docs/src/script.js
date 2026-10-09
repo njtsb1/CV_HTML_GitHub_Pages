@@ -374,6 +374,7 @@
       "projects.github.p171": "Creating an Android App to Share Your Project Portfolio",
       "projects.github.p172": "Creating a Kotlin App to Follow the World Cup",
       "projects.github.p173": "Creating a Project in Playground Using Xcode",
+      "projects.github.p174": "Mastering the Swift Programming Language",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -715,6 +716,7 @@
       "projects.github.p171": "Criando um App Android para Compartilhar seu Portfólio de Projetos",
       "projects.github.p172": "Criando um Aplicativo Kotlin para acompanhar a Copa",
       "projects.github.p173": "Criando um Projeto no Playground Utilizando XCode",
+      "projects.github.p174": "Dominando a Linguagem de Programação Swift",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -956,6 +958,7 @@
       "projects.github.p171": "Creando una aplicación Android para compartir tu portafolio de proyectos",
       "projects.github.p172": "Creando una aplicación en Kotlin para seguir la Copa",
       "projects.github.p173": "Creando un proyecto en Playground con Xcode",
+      "projects.github.p174": "Dominando el lenguaje de programación Swift",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
