@@ -376,6 +376,7 @@
       "projects.github.p173": "Creating a Project in Playground Using Xcode",
       "projects.github.p174": "Mastering the Swift Programming Language",
       "projects.github.p175": "Build Your Mobile Portfolio by Creating iOS Apps",
+      "projects.github.p176": "TDD: Understanding and Practicing in a Node and TypeScript Backend",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -719,6 +720,7 @@
       "projects.github.p173": "Criando um Projeto no Playground Utilizando XCode",
       "projects.github.p174": "Dominando a Linguagem de Programação Swift",
       "projects.github.p175": "Desenvolva Seu Portfólio Mobile Criando Apps iOS",
+      "projects.github.p176": "TDD: Entendendo e Praticando em um Backend com Node e Typescript",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -962,6 +964,7 @@
       "projects.github.p173": "Creando un proyecto en Playground con Xcode",
       "projects.github.p174": "Dominando el lenguaje de programación Swift",
       "projects.github.p175": "Desarrolla tu portafolio móvil creando apps para iOS.",
+      "projects.github.p176": "TDD: Entendiendo y practicando en un backend con Node y TypeScript",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
