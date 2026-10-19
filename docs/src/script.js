@@ -378,6 +378,7 @@
       "projects.github.p175": "Build Your Mobile Portfolio by Creating iOS Apps",
       "projects.github.p176": "TDD: Understanding and Practicing in a Node and TypeScript Backend",
       "projects.github.p177": "Fortifying Your Code with TDD and Unit Tests Using .NET Core",
+      "projects.github.p178": "Creating Automated UI Tests on Android with Kotlin and Espresso",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -723,6 +724,7 @@
       "projects.github.p175": "Desenvolva Seu Portfólio Mobile Criando Apps iOS",
       "projects.github.p176": "TDD: Entendendo e Praticando em um Backend com Node e Typescript",
       "projects.github.p177": "Blindando Seu Código com TDD e Testes Unitários Usando .NET Core",
+      "projects.github.p178": "Criando Testes Automatizados de UI em Android com Kotlin e Espresso",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -968,6 +970,7 @@
       "projects.github.p175": "Desarrolla tu portafolio móvil creando apps para iOS.",
       "projects.github.p176": "TDD: Entendiendo y practicando en un backend con Node y TypeScript",
       "projects.github.p177": "Blindando tu código con TDD y pruebas unitarias usando .NET Core",
+      "projects.github.p178": "Creando pruebas automatizadas de UI en Android con Kotlin y Espresso",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
