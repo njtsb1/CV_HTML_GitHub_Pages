@@ -380,6 +380,7 @@
       "projects.github.p177": "Fortifying Your Code with TDD and Unit Tests Using .NET Core",
       "projects.github.p178": "Creating Automated UI Tests on Android with Kotlin and Espresso",
       "projects.github.p179": "Creating a Banking System with Python",
+      "projects.github.p180": "Optimizing the Banking System with Python Functions",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -727,6 +728,7 @@
       "projects.github.p177": "Blindando Seu Código com TDD e Testes Unitários Usando .NET Core",
       "projects.github.p178": "Criando Testes Automatizados de UI em Android com Kotlin e Espresso",
       "projects.github.p179": "Criando um Sistema Bancário com Python",
+      "projects.github.p180": "Otimizando o Sistema Bancário com Funções Python",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -974,6 +976,7 @@
       "projects.github.p177": "Blindando tu código con TDD y pruebas unitarias usando .NET Core",
       "projects.github.p178": "Creando pruebas automatizadas de UI en Android con Kotlin y Espresso",
       "projects.github.p179": "Creando un sistema bancario con Python",
+      "projects.github.p180": "Optimizando el sistema bancario con funciones de Python",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
