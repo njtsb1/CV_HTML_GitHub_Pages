@@ -381,6 +381,7 @@
       "projects.github.p178": "Creating Automated UI Tests on Android with Kotlin and Espresso",
       "projects.github.p179": "Creating a Banking System with Python",
       "projects.github.p180": "Optimizing the Banking System with Python Functions",
+      "projects.github.p181": "Creating a Phishing Attack with Kali Linux",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -729,6 +730,7 @@
       "projects.github.p178": "Criando Testes Automatizados de UI em Android com Kotlin e Espresso",
       "projects.github.p179": "Criando um Sistema Bancário com Python",
       "projects.github.p180": "Otimizando o Sistema Bancário com Funções Python",
+      "projects.github.p181": "Criação de um Phishing com o Kali Linux",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -977,6 +979,7 @@
       "projects.github.p178": "Creando pruebas automatizadas de UI en Android con Kotlin y Espresso",
       "projects.github.p179": "Creando un sistema bancario con Python",
       "projects.github.p180": "Optimizando el sistema bancario con funciones de Python",
+      "projects.github.p181": "Creación de un phishing con Kali Linux",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
