@@ -93,10 +93,10 @@
       "experience.multimedia.date_tag": "October 2025",
       "experience.multimedia.p1": "Digital Process Management and Production at Scale.",
       "experience.multimedia.p2": "Responsible for structuring the workflow and technical delivery of digital assets, ensuring 100% compliance with quality standards and deadlines. Strategic use of Artificial Intelligence to optimize translation and editing processes.",
-      "experience.multimedia.p3": "Data Governance: Management and organization of a cloud repository with over 8,550 digital assets, ensuring integrity and versioning.",
+      "experience.multimedia.p3": "Data Governance: Management and organization of a cloud repository with over 8,600 digital assets, ensuring integrity and versioning.",
       "experience.multimedia.p4": "Institutional Standardization: Creation of protocols for subtitling, translation, and audio normalization, ensuring a cohesive visual and sound identity.",
       "experience.multimedia.p5": "Linguistic Compliance: Supervision and technical review of AI-assisted subtitles and translations (PT-BR, EN-US, ES-ES), ensuring communication accuracy.",
-      "experience.multimedia.p6": "Operational Efficiency: Implementation of dynamic editing methodologies that resulted in the delivery of over 8,000 audio files and 550 videos with a high standard of finish.",
+      "experience.multimedia.p6": "Operational Efficiency: Implementation of dynamic editing methodologies that resulted in the delivery of over 8,000 audio files and 600 videos with a high standard of finish.",
 
       "experience.sports-trader.title": "Risk Analyst and Market Intelligence - Freelance work on Betfair",
       "experience.sports-trader.date_text": "March 2021 -",
@@ -444,10 +444,10 @@
       "experience.multimedia.date_tag": "Outubro 2025",
       "experience.multimedia.p1": "Gestão de Processos Digitais e Produção em Escala.",
       "experience.multimedia.p2": "Responsável por estruturar o fluxo de trabalho e entrega técnica de ativos digitais, garantindo 100% de conformidade com padrões de qualidade e prazos. Uso estratégico de Inteligência Artificial para otimizar processos de tradução e edição.",
-      "experience.multimedia.p3": "Governança de Dados: Gestão e organização de um repositório em nuvem com mais de 8.550 ativos digitais, garantindo integridade e versionamento.",
+      "experience.multimedia.p3": "Governança de Dados: Gestão e organização de um repositório em nuvem com mais de 8.600 ativos digitais, garantindo integridade e versionamento.",
       "experience.multimedia.p4": "Padronização Institucional: Criação de protocolos para legendagem, tradução e normalização de áudio, garantindo identidade visual e sonora coesa.",
       "experience.multimedia.p5": "Conformidade Linguística: Supervisão e revisão técnica de legendas e traduções assistidas por IA (PT-BR, EN-US, ES-ES), garantindo precisão na comunicação.",
-      "experience.multimedia.p6": "Eficiência Operacional: Implementação de metodologias de edição dinâmicas que resultaram na entrega de mais de 8.000 arquivos de áudio e 550 vídeos com alto padrão de acabamento.",
+      "experience.multimedia.p6": "Eficiência Operacional: Implementação de metodologias de edição dinâmicas que resultaram na entrega de mais de 8.000 arquivos de áudio e 600 vídeos com alto padrão de acabamento.",
 
       "experience.sports-trader.title": "Analista de Risco e Inteligência de Mercado - Trabalho Freelance na Betfair",
       "experience.sports-trader.date_text": "Março 2021 -",
@@ -793,10 +793,10 @@
       "experience.multimedia.date_tag": "Octubre 2025",
       "experience.multimedia.p1": "Gestión de Procesos Digitales y Producción a Escala.",
       "experience.multimedia.p2": "Responsable de estructurar el flujo de trabajo y la entrega técnica de activos digitales, asegurando 100% de cumplimiento con estándares de calidad y plazos. Uso estratégico de IA para optimizar procesos de traducción y edición.",
-      "experience.multimedia.p3": "Gobernanza de Datos: Gestión y organización de un repositorio en la nube con más de 8.550 activos digitales, asegurando integridad y versionado.",
+      "experience.multimedia.p3": "Gobernanza de Datos: Gestión y organización de un repositorio en la nube con más de 8.600 activos digitales, asegurando integridad y versionado.",
       "experience.multimedia.p4": "Estandarización Institucional: Creando de protocolos para subtitulado, traducción y normalización de audio, asegurando identidad visual y sonora coherente.",
       "experience.multimedia.p5": "Cumplimiento Lingüístico: Supervisión y revisión técnica de subtítulos y traducciones asistidas por IA (PT-BR, EN-US, ES-ES), asegurando precisión en la comunicación.",
-      "experience.multimedia.p6": "Eficiencia Operativa: Implementación de metodologías de edición dinámicas que resultaron en la entrega de más de 8.000 archivos de audio y 550 videos con alto estándar de acabado.",
+      "experience.multimedia.p6": "Eficiencia Operativa: Implementación de metodologías de edición dinámicas que resultaron en la entrega de más de 8.000 archivos de audio y 600 videos con alto estándar de acabado.",
 
       // For brevity, translate project titles similarly to English but in Spanish
       "projects.title": "Proyectos",
