@@ -383,6 +383,7 @@
       "projects.github.p180": "Optimizing the Banking System with Python Functions",
       "projects.github.p181": "Creating a Phishing Attack with Kali Linux",
       "projects.github.p182": "Understanding Ransomware in Practice with Python",
+      "projects.github.p183": "Building Relational Queries in SQL Server",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -733,6 +734,7 @@
       "projects.github.p180": "Otimizando o Sistema Bancário com Funções Python",
       "projects.github.p181": "Criação de um Phishing com o Kali Linux",
       "projects.github.p182": "Entendendo um Ransomware na Prática com Python",
+      "projects.github.p183": "Montando Consultas Relacionais no SQL Server",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -983,6 +985,7 @@
       "projects.github.p180": "Optimizando el sistema bancario con funciones de Python",
       "projects.github.p181": "Creación de un phishing con Kali Linux",
       "projects.github.p182": "Entendiendo un ransomware en la práctica con Python",
+      "projects.github.p183": "Construcción de consultas relacionales en SQL Server",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
