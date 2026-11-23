@@ -386,6 +386,7 @@
       "projects.github.p183": "Building Relational Queries in SQL Server",
       "projects.github.p184": "Implementing Unit Test Validations with C#",
       "projects.github.p185": "Creating a Wreck-It Ralph Game with JavaScript",
+      "projects.github.p186": "Creating an Emoji Memory Game Using JavaScript",
 
       // Footer
       "footer.social": "My Social Networks",
@@ -739,6 +740,7 @@
       "projects.github.p183": "Montando Consultas Relacionais no SQL Server",
       "projects.github.p184": "Implementando Validações de Testes Unitários com C#",
       "projects.github.p185": "Criando um Jogo do Detona Ralph com JavaScript",
+      "projects.github.p186": "Criando um Jogo da Memória com Emojis Utilizando JavaScript",
 
       "footer.social": "Minhas Redes Sociais",
       "footer.powered": "Powered by w3.css"
@@ -992,6 +994,7 @@
       "projects.github.p183": "Construcción de consultas relacionales en SQL Server",
       "projects.github.p184": "Implementación de validaciones en pruebas unitarias con C#",
       "projects.github.p185": "Creando un juego de ¡Rompe Ralph! con JavaScript",
+      "projects.github.p186": "Creando un juego de memoria con emojis utilizando JavaScript",
 
       "footer.social": "Mis Redes Sociales",
       "footer.powered": "Powered by w3.css"
